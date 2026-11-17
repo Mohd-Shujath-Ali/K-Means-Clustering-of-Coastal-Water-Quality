@@ -1,0 +1,5 @@
+tier,n_zones,recommended_vessels,expected_yield_tons,fuel_saving_pct
+S1 Prime PFZ,128,45,185.0,28.5
+S2 Favorable,255,60,140.0,14.0
+S3 Marginal,298,15,25.0,0.0
+S4 Unfavorable,169,0,0.0,-35.0

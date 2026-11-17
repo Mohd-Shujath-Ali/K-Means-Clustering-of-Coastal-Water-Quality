@@ -1,0 +1,5 @@
+tier,do_min_mg_l,sst_optimal_min,sst_optimal_max,salinity_min_psu,salinity_max_psu,turbidity_target_ntu,primary_advisory
+S1 Prime PFZ,6.0,25.0,28.0,33.5,35.8,4.0 - 12.0,Optimal upwelling fronts. Deploy high-capacity pelagic gear.
+S2 Favorable,4.8,27.5,29.8,33.0,36.0,1.0 - 6.0,Secondary foraging zones. Standard commercial drift operations.
+S3 Marginal,3.8,29.0,31.0,22.0,35.0,> 25.0,High silt or low fish density. Gear snagging hazard.
+S4 Unfavorable,< 3.0,> 31.0,extreme,anomalous,anomalous,variable,Severe coastal hypoxia. Fish evasion zone. Halt operations.

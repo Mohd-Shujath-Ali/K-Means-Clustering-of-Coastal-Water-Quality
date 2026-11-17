@@ -1,0 +1,5 @@
+h_rank,n_zones,regime,mean_suitability,mean_do_mg_l,mean_sst_c,mean_salinity_psu,mean_turbidity_ntu,mean_chla_mg_m3,mean_depth_m,mean_cpue_kg_hr
+0,202,"R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",0.7756,6.89,26.1,34.76,6.31,4.16,41.4,281.0
+1,531,"R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",0.4433,5.39,28.93,35.31,2.2,0.89,63.7,102.2
+2,43,"R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",0.3124,2.44,31.41,34.17,8.51,0.88,24.5,38.7
+3,74,"R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",0.2668,4.11,30.07,23.87,38.0,2.02,16.2,27.8

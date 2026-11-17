@@ -1,0 +1,137 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+  body {
+    background-color: #F8FAFC;
+    color: #0F172A;
+    margin: 0;
+  }
+  *:focus-visible {
+    outline: 2px solid #0284C7;
+    outline-offset: 2px;
+  }
+}
+
+@layer components {
+  .kpi-card {
+    background-color: #FFFFFF;
+    border-radius: 0.75rem;
+    border: 1px solid #E2E8F0;
+    padding: 1.25rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  }
+  .nav-link {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.625rem 0.875rem;
+    border-radius: 0.5rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #475569;
+    text-decoration: none;
+    transition: all 150ms ease;
+  }
+  .nav-link:hover {
+    background-color: #F1F5F9;
+    color: #0F172A;
+  }
+  .nav-link.active {
+    background-color: #E0F2FE;
+    color: #0284C7;
+    font-weight: 600;
+  }
+  .btn-primary {
+    padding: 0.5rem 1rem;
+    background-color: #0284C7;
+    color: #FFFFFF;
+    border-radius: 0.5rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    cursor: pointer;
+    transition: background-color 150ms ease;
+    border: none;
+  }
+  .btn-primary:hover {
+    background-color: #0369A1;
+  }
+  .btn-secondary {
+    padding: 0.5rem 1rem;
+    background-color: #FFFFFF;
+    color: #334155;
+    border: 1px solid #CBD5E1;
+    border-radius: 0.5rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    cursor: pointer;
+    transition: all 150ms ease;
+  }
+  .btn-secondary:hover {
+    background-color: #F8FAFC;
+    border-color: #94A3B8;
+  }
+  /* Suitability tier pills */
+  .pill-p1 {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.125rem 0.5rem;
+    border-radius: 0.25rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    background-color: #CFFAFE;
+    color: #164E63;
+    border-left: 3px solid #0E7490;
+  }
+  .pill-p2 {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.125rem 0.5rem;
+    border-radius: 0.25rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    background-color: #E0F2FE;
+    color: #0C4A6E;
+    border-left: 3px solid #0891B2;
+  }
+  .pill-p3 {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.125rem 0.5rem;
+    border-radius: 0.25rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    background-color: #F0F9FF;
+    color: #075985;
+    border-left: 3px solid #06B6D4;
+  }
+  .pill-p4 {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.125rem 0.5rem;
+    border-radius: 0.25rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+    background-color: #F1F5F9;
+    color: #475569;
+    border-left: 3px solid #64748B;
+  }
+}
+
+/* MapLibre overrides */
+.maplibregl-ctrl-attrib { font-size: 10px; }
+.maplibregl-popup-content {
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+  border: 1px solid #E2E8F0;
+  padding: 0.75rem;
+  font-family: inherit;
+}
