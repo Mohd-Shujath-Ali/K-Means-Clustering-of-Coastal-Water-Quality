@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import logging
+from pathlib import Path
 import sys
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
@@ -74,6 +75,20 @@ def create_app() -> FastAPI:
                 "Cache-Control": "public, max-age=3600",
             },
         )
+
+    # Static assets and SPA fallback for React UI
+    frontend_dist = Path(__file__).resolve().parent.parent.parent / "frontend" / "dist"
+    if frontend_dist.exists():
+        from fastapi.responses import FileResponse, JSONResponse
+
+        @application.get("/{full_path:path}")
+        async def serve_spa(full_path: str):
+            if full_path.startswith("api"):
+                return JSONResponse(status_code=404, content={"detail": "Not Found"})
+            file_path = frontend_dist / full_path
+            if full_path and file_path.is_file():
+                return FileResponse(file_path)
+            return FileResponse(frontend_dist / "index.html")
 
     return application
 
