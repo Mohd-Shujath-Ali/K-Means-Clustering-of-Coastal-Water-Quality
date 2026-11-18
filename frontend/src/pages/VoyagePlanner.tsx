@@ -4,7 +4,7 @@ import type { ActionPlanResponse } from '../api/types'
 import { Skeleton } from '../components/Skeleton'
 import { SuitabilityPill } from '../components/SuitabilityPill'
 import { formatDepth, formatDist } from '../utils/format'
-import { Download, Fuel, ArrowUpRight } from 'lucide-react'
+import { Download, Fuel, ArrowUpRight, Scale } from 'lucide-react'
 import { Link } from 'react-router-dom'
 
 export default function VoyagePlanner() {
@@ -112,7 +112,8 @@ export default function VoyagePlanner() {
                 <th className="py-2.5 px-4">Target Species</th>
                 <th className="py-2.5 px-4">Recommended Gear</th>
                 <th className="py-2.5 px-4">Operational Action</th>
-                <th className="py-2.5 px-4 text-center">Inspect</th>
+                <th className="py-2.5 px-3 text-center">Inspect</th>
+                <th className="py-2.5 px-3 text-center">Compare</th>
               </tr>
             </thead>
             <tbody className="divide-y divide-slate-100">
@@ -134,12 +135,22 @@ export default function VoyagePlanner() {
                   <td className="py-2.5 px-4 text-slate-800 font-medium">{z.primary_species}</td>
                   <td className="py-2.5 px-4 text-slate-600">{z.recommended_gear}</td>
                   <td className="py-2.5 px-4 text-slate-600 max-w-xs truncate">{z.action}</td>
-                  <td className="py-2.5 px-4 text-center">
+                  <td className="py-2.5 px-3 text-center">
                     <Link
                       to={`/explorer?zone=${z.zone_id}`}
-                      className="inline-flex items-center text-sky-600 hover:text-sky-800 font-semibold"
+                      className="inline-flex items-center text-sky-600 hover:text-sky-800 font-semibold p-1 hover:bg-sky-50 rounded"
+                      title="Inspect zone on map"
                     >
                       <ArrowUpRight size={14} />
+                    </Link>
+                  </td>
+                  <td className="py-2.5 px-3 text-center">
+                    <Link
+                      to={`/explorer?zone=${z.zone_id}&compare=${z.zone_id}`}
+                      className="inline-flex items-center text-amber-600 hover:text-amber-800 font-semibold p-1 hover:bg-amber-50 rounded"
+                      title="Add to spot comparison"
+                    >
+                      <Scale size={14} />
                     </Link>
                   </td>
                 </tr>

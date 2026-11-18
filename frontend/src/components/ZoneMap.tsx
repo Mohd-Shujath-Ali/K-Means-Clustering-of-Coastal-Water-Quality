@@ -21,6 +21,7 @@ interface Props {
   layer: MapLayer
   onZoneClick?: (id: number) => void
   selectedId?: number | null
+  compareIds?: number[]
   matchingIds?: Set<number> | null
   events?: CatchEventRow[]
   showEvents?: boolean
@@ -64,6 +65,7 @@ export function ZoneMap({
   layer,
   onZoneClick,
   selectedId,
+  compareIds,
   flyTo,
   className = 'h-full w-full',
 }: Props) {
@@ -137,18 +139,29 @@ export function ZoneMap({
           type: 'line',
           source: 'zones-source',
           paint: {
-            'line-color': '#0F172A',
+            'line-color': [
+              'case',
+              ['boolean', ['feature-state', 'selected'], false],
+              '#0284C7',
+              ['boolean', ['feature-state', 'compared'], false],
+              '#D97706',
+              '#0F172A',
+            ],
             'line-width': [
               'case',
               ['boolean', ['feature-state', 'selected'], false],
+              3.0,
+              ['boolean', ['feature-state', 'compared'], false],
               2.5,
-              0.5,
+              0.6,
             ],
             'line-opacity': [
               'case',
               ['boolean', ['feature-state', 'selected'], false],
               1.0,
-              0.3,
+              ['boolean', ['feature-state', 'compared'], false],
+              0.95,
+              0.35,
             ],
           },
         })
@@ -287,6 +300,18 @@ export function ZoneMap({
       map.setFeatureState({ source: 'zones-source', id: selectedId }, { selected: true })
     }
   }, [selectedId])
+
+  // Update comparison highlights
+  useEffect(() => {
+    const map = mapRef.current
+    if (!map || !map.isStyleLoaded() || !map.getSource('zones-source')) return
+
+    if (compareIds && compareIds.length > 0) {
+      compareIds.forEach((id) => {
+        map.setFeatureState({ source: 'zones-source', id }, { compared: true })
+      })
+    }
+  }, [compareIds])
 
   // FlyTo effect
   useEffect(() => {

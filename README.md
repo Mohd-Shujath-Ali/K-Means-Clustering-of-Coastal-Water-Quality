@@ -177,7 +177,10 @@ The platform evaluates unsupervised cluster validity against 360 documented comm
 │   │   └── utils/                 # Formatters and color palettes
 │   └── package.json
 └── research/
-    └── generate_coastal_data_and_models.py
+    ├── Coastal_Water_Quality_KMeans_Analysis.ipynb  # Interactive publication-grade research notebook
+    ├── build_jupyter_notebook.py                   # Automated notebook compiler and figure renderer
+    ├── generate_all_verified_data.py               # Oceanographic synthesis and model training engine
+    └── generate_coastal_data_and_models.py         # Baseline data simulation script
 ```
 
 ### 5.2 Core API Endpoints
@@ -199,9 +202,16 @@ The platform evaluates unsupervised cluster validity against 360 documented comm
 - Python 3.10+ (with `fastapi`, `uvicorn`, `pandas`, `scikit-learn`, `scipy`)
 - Node.js 18+ and `npm`
 
-### 1. Data Generation & Research Pipeline
+### 1. Data Generation & Research Notebook
 ```bash
-python research/generate_coastal_data_and_models.py
+# Generate verified data, schemas, and models
+python research/generate_all_verified_data.py
+
+# Build/refresh the pre-rendered Jupyter research notebook
+python research/build_jupyter_notebook.py
+
+# Launch interactive Jupyter notebook
+jupyter notebook research/Coastal_Water_Quality_KMeans_Analysis.ipynb
 ```
 
 ### 2. Backend Execution & Automated Tests

@@ -2,3343 +2,3331 @@
   "n_zones": 850,
   "pca": {
     "explained_variance_ratio": [
-      0.6078,
-      0.3147,
-      0.0599
+      0.4466,
+      0.4178,
+      0.0853
     ],
     "components": [
       {
         "id": 512,
-        "x": 1.52,
-        "y": -1.491,
-        "z": -0.597,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
+        "x": -0.079,
+        "y": -0.219,
+        "z": -0.559,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
       },
       {
         "id": 357,
-        "x": 0.578,
-        "y": 0.251,
-        "z": 0.376,
+        "x": -0.316,
+        "y": -0.172,
+        "z": -0.706,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
         "id": 110,
-        "x": 0.292,
-        "y": 0.371,
-        "z": -0.16,
+        "x": -0.404,
+        "y": 0.26,
+        "z": -0.168,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
         "id": 684,
-        "x": 0.539,
-        "y": 0.137,
-        "z": -0.58,
+        "x": -0.184,
+        "y": -0.283,
+        "z": 0.579,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
         "id": 39,
-        "x": 0.206,
-        "y": 0.503,
-        "z": 0.378,
+        "x": -0.534,
+        "y": -0.576,
+        "z": 0.135,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
+        "tier": "S3 Marginal"
       },
       {
         "id": 66,
-        "x": 0.384,
-        "y": 0.439,
-        "z": -0.506,
+        "x": -0.896,
+        "y": -0.264,
+        "z": 0.763,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
         "id": 756,
-        "x": 0.171,
-        "y": 0.688,
-        "z": 0.173,
+        "x": 0.077,
+        "y": -0.367,
+        "z": 0.782,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 260,
+        "x": -0.375,
+        "y": -0.22,
+        "z": -0.462,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S4 Unfavorable"
       },
       {
-        "id": 260,
-        "x": 1.048,
-        "y": -1.035,
-        "z": -0.689,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
         "id": 790,
-        "x": 0.565,
-        "y": 0.204,
-        "z": -0.018,
+        "x": -0.316,
+        "y": -0.875,
+        "z": 0.039,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
         "id": 467,
-        "x": -1.862,
-        "y": 2.119,
-        "z": -0.456,
+        "x": 0.531,
+        "y": -4.237,
+        "z": 0.142,
         "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 705,
-        "x": -3.886,
-        "y": -1.835,
-        "z": -0.047,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
         "tier": "S4 Unfavorable"
       },
       {
+        "id": 705,
+        "x": -0.364,
+        "y": 0.008,
+        "z": -0.346,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
         "id": 447,
-        "x": 1.274,
-        "y": -1.512,
-        "z": -0.537,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
+        "x": -0.939,
+        "y": -0.049,
+        "z": 0.639,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
       },
       {
         "id": 706,
-        "x": 0.713,
-        "y": 0.034,
-        "z": 1.514,
+        "x": -0.086,
+        "y": 0.446,
+        "z": -0.26,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
         "id": 633,
-        "x": 0.105,
-        "y": 0.716,
-        "z": 0.193,
+        "x": -0.582,
+        "y": -0.467,
+        "z": -0.334,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
         "id": 209,
-        "x": 0.192,
-        "y": 0.639,
-        "z": 0.885,
+        "x": -0.465,
+        "y": 0.02,
+        "z": 0.942,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
         "id": 551,
-        "x": 0.294,
-        "y": 0.408,
-        "z": -0.24,
+        "x": -0.376,
+        "y": 0.454,
+        "z": -0.467,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
         "id": 292,
-        "x": -1.985,
-        "y": 2.13,
-        "z": -0.122,
-        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 67,
-        "x": 0.205,
-        "y": 0.773,
-        "z": -0.004,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 449,
-        "x": -4.995,
-        "y": -1.216,
-        "z": -0.24,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 528,
-        "x": -4.13,
-        "y": -1.366,
-        "z": -0.347,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 300,
-        "x": -0.012,
-        "y": 0.839,
-        "z": -0.162,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 350,
-        "x": 1.358,
-        "y": -1.33,
-        "z": 0.189,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 244,
-        "x": 1.438,
-        "y": -1.294,
-        "z": -0.232,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 218,
-        "x": 1.449,
-        "y": -1.609,
-        "z": 0.023,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 434,
-        "x": 0.146,
-        "y": 0.648,
-        "z": 0.266,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 636,
-        "x": 1.482,
-        "y": -1.592,
-        "z": -0.583,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 227,
-        "x": 0.177,
-        "y": 0.65,
-        "z": 0.257,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 533,
-        "x": -0.135,
-        "y": 0.773,
-        "z": -0.336,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 302,
-        "x": -4.887,
-        "y": -1.285,
-        "z": -0.339,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 696,
-        "x": 0.009,
-        "y": 0.946,
-        "z": 0.827,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 731,
-        "x": 0.057,
-        "y": 0.997,
-        "z": 0.914,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 314,
-        "x": 0.112,
-        "y": 0.572,
-        "z": -0.462,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 836,
-        "x": -0.296,
-        "y": 1.196,
-        "z": 0.068,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 613,
-        "x": 1.648,
-        "y": -1.674,
-        "z": 0.27,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 235,
-        "x": -3.979,
-        "y": -1.603,
-        "z": 0.156,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 621,
-        "x": 0.781,
-        "y": 0.082,
-        "z": 0.491,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 477,
-        "x": 0.487,
-        "y": 0.238,
-        "z": -0.305,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 745,
-        "x": 0.389,
-        "y": 0.403,
-        "z": -0.323,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 196,
-        "x": 1.317,
-        "y": -1.135,
-        "z": -0.027,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 30,
-        "x": -0.009,
-        "y": 0.821,
-        "z": -0.374,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 814,
-        "x": 1.327,
-        "y": -1.103,
-        "z": 0.376,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 78,
-        "x": 1.155,
-        "y": -1.214,
-        "z": -0.349,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 137,
-        "x": -0.173,
-        "y": 1.046,
-        "z": 0.441,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 208,
-        "x": -0.007,
-        "y": 0.844,
-        "z": -0.281,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 741,
-        "x": -2.938,
-        "y": -1.107,
-        "z": -0.091,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 306,
-        "x": 1.731,
-        "y": -2.035,
-        "z": -0.347,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 595,
-        "x": 1.956,
-        "y": -1.548,
-        "z": 0.328,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 626,
-        "x": 1.585,
-        "y": -1.559,
-        "z": 0.185,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 765,
-        "x": -0.198,
-        "y": 1.125,
-        "z": 0.153,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 767,
-        "x": 0.411,
-        "y": 0.422,
-        "z": -0.534,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 23,
-        "x": -2.118,
-        "y": 2.414,
-        "z": -1.018,
-        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 275,
-        "x": 1.798,
-        "y": -1.933,
-        "z": -0.38,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 757,
-        "x": 0.238,
-        "y": 0.569,
-        "z": -0.079,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 840,
-        "x": -2.42,
-        "y": 2.285,
-        "z": -0.811,
-        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 192,
-        "x": 0.335,
-        "y": 0.193,
-        "z": -0.136,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 665,
-        "x": -0.031,
-        "y": 0.944,
-        "z": -0.377,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 506,
-        "x": 0.44,
-        "y": 0.431,
-        "z": 0.296,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 417,
-        "x": 0.734,
-        "y": 0.042,
-        "z": -0.044,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 367,
-        "x": 0.434,
-        "y": 0.325,
-        "z": 0.19,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 672,
-        "x": -5.212,
-        "y": -2.211,
-        "z": -0.42,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 120,
-        "x": -0.014,
-        "y": 0.898,
-        "z": -0.215,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 430,
-        "x": 0.594,
-        "y": 0.282,
-        "z": 0.313,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 732,
-        "x": 0.482,
-        "y": 0.621,
-        "z": -0.12,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 848,
-        "x": -4.215,
-        "y": -1.576,
-        "z": -0.22,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 552,
-        "x": -0.294,
-        "y": 1.032,
-        "z": 0.221,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 331,
-        "x": 1.04,
-        "y": -0.666,
-        "z": -0.602,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 380,
-        "x": -0.173,
-        "y": 0.762,
-        "z": 0.182,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 649,
-        "x": 0.282,
-        "y": 0.419,
-        "z": -0.054,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 265,
-        "x": 0.294,
-        "y": 0.611,
-        "z": -0.034,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 211,
-        "x": 0.429,
-        "y": 0.231,
-        "z": 0.453,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 86,
-        "x": 0.22,
-        "y": 0.695,
-        "z": -0.204,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 758,
-        "x": 0.446,
-        "y": 0.337,
-        "z": -0.311,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 63,
-        "x": 1.461,
-        "y": -1.666,
-        "z": -0.436,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 679,
-        "x": 0.403,
-        "y": 0.603,
-        "z": 0.856,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 617,
-        "x": -0.166,
-        "y": 0.902,
-        "z": -0.025,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 363,
-        "x": -5.062,
-        "y": -2.067,
-        "z": 0.25,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 65,
-        "x": 1.363,
-        "y": -1.539,
-        "z": 0.259,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 485,
-        "x": 0.784,
-        "y": -0.886,
-        "z": -0.859,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 483,
-        "x": 0.205,
-        "y": 0.443,
-        "z": -0.242,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 266,
-        "x": 1.149,
-        "y": -1.36,
-        "z": 0.073,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 846,
-        "x": 0.452,
-        "y": 0.365,
-        "z": -0.371,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 280,
-        "x": 0.659,
-        "y": 0.092,
-        "z": 0.349,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 139,
-        "x": 1.204,
-        "y": -1.198,
-        "z": -0.205,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 495,
-        "x": 0.585,
-        "y": 0.468,
-        "z": -0.088,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 96,
-        "x": 1.442,
-        "y": -1.698,
-        "z": -0.21,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 539,
-        "x": -0.138,
-        "y": 1.079,
-        "z": -0.039,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 49,
-        "x": -3.802,
-        "y": -0.922,
-        "z": -0.117,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 829,
-        "x": -3.256,
-        "y": -1.965,
-        "z": 0.371,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 802,
-        "x": 0.608,
-        "y": 0.11,
-        "z": -0.191,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 697,
-        "x": 0.274,
-        "y": 0.634,
-        "z": -0.113,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 429,
-        "x": -2.088,
-        "y": 2.26,
-        "z": -1.264,
-        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 650,
-        "x": 0.145,
-        "y": 0.659,
-        "z": 0.259,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 845,
-        "x": -2.075,
-        "y": 2.408,
-        "z": -0.201,
-        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 749,
-        "x": 2.301,
-        "y": -2.1,
-        "z": -0.026,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 33,
-        "x": 1.425,
-        "y": -1.101,
-        "z": 0.168,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 31,
-        "x": -3.829,
-        "y": -1.791,
-        "z": -0.383,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 736,
-        "x": 1.077,
-        "y": -1.639,
-        "z": -0.798,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 338,
-        "x": 0.173,
-        "y": 0.69,
+        "x": -0.207,
+        "y": -0.558,
         "z": 0.49,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 362,
-        "x": 0.986,
-        "y": -0.27,
-        "z": 0.401,
+        "id": 67,
+        "x": -0.298,
+        "y": -0.424,
+        "z": 0.927,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 76,
-        "x": 0.166,
-        "y": 0.512,
-        "z": 0.139,
+        "id": 449,
+        "x": -0.524,
+        "y": 0.447,
+        "z": -0.969,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 528,
+        "x": -0.175,
+        "y": 0.828,
+        "z": 0.734,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 682,
-        "x": -2.311,
-        "y": 2.467,
-        "z": -0.724,
-        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 716,
-        "x": 0.053,
-        "y": 0.567,
-        "z": -0.794,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 518,
-        "x": 1.754,
-        "y": -1.778,
-        "z": 0.175,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 72,
-        "x": -1.993,
-        "y": 2.077,
-        "z": -0.583,
-        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 77,
-        "x": -0.015,
-        "y": 1.073,
-        "z": -0.182,
+        "id": 300,
+        "x": -0.665,
+        "y": -0.283,
+        "z": -0.454,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S4 Unfavorable"
       },
       {
-        "id": 742,
-        "x": 0.389,
-        "y": 0.639,
-        "z": 0.384,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 692,
-        "x": 0.428,
-        "y": 0.707,
-        "z": 0.407,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 833,
-        "x": 1.05,
-        "y": -1.178,
-        "z": 0.071,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 109,
-        "x": 0.309,
-        "y": 0.527,
-        "z": 0.376,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 693,
-        "x": 0.984,
-        "y": -1.614,
-        "z": -0.618,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 309,
-        "x": 0.108,
-        "y": 0.538,
-        "z": -0.52,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 290,
-        "x": 0.796,
-        "y": -1.192,
-        "z": -0.343,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 433,
-        "x": 0.241,
-        "y": 0.532,
-        "z": 1.311,
+        "id": 350,
+        "x": -0.221,
+        "y": 1.446,
+        "z": -0.384,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 668,
-        "x": 0.016,
-        "y": 0.797,
-        "z": -0.512,
+        "id": 244,
+        "x": -0.208,
+        "y": -0.005,
+        "z": 0.489,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 218,
+        "x": -0.962,
+        "y": -0.334,
+        "z": 0.297,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S4 Unfavorable"
       },
       {
-        "id": 291,
-        "x": 1.396,
-        "y": -1.38,
-        "z": -0.152,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 259,
-        "x": 0.687,
-        "y": 0.212,
-        "z": 0.574,
+        "id": 434,
+        "x": 0.004,
+        "y": 0.435,
+        "z": -0.388,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 168,
-        "x": -0.443,
-        "y": 1.364,
-        "z": 0.737,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 436,
-        "x": 0.481,
-        "y": 0.342,
+        "id": 636,
+        "x": -1.152,
+        "y": -0.435,
         "z": -0.163,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
+        "tier": "S4 Unfavorable"
       },
       {
-        "id": 355,
-        "x": -0.043,
-        "y": 0.876,
-        "z": 0.182,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 286,
-        "x": 0.019,
-        "y": 0.829,
-        "z": 0.104,
+        "id": 227,
+        "x": -0.512,
+        "y": -0.519,
+        "z": 0.097,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S4 Unfavorable"
       },
       {
-        "id": 641,
-        "x": 0.235,
-        "y": 0.574,
-        "z": -0.065,
+        "id": 533,
+        "x": 0.141,
+        "y": 0.298,
+        "z": -0.136,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 302,
+        "x": 0.11,
+        "y": 0.773,
+        "z": 0.157,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 696,
+        "x": -0.695,
+        "y": 0.346,
+        "z": 0.094,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 584,
-        "x": 0.34,
-        "y": 0.502,
-        "z": 0.182,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 5,
-        "x": 0.542,
-        "y": 0.277,
-        "z": -0.061,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 54,
-        "x": 0.307,
-        "y": 0.311,
-        "z": -0.325,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 575,
-        "x": 0.24,
-        "y": 0.666,
-        "z": -0.044,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 798,
-        "x": 0.822,
-        "y": 0.002,
-        "z": -0.181,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 254,
-        "x": 1.525,
-        "y": -1.474,
-        "z": 0.096,
+        "id": 731,
+        "x": 2.391,
+        "y": 1.1,
+        "z": 0.113,
         "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
         "tier": "S1 Prime PFZ"
       },
       {
-        "id": 213,
-        "x": 1.343,
-        "y": -1.374,
-        "z": 0.445,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 594,
-        "x": -0.096,
-        "y": 0.869,
-        "z": -0.372,
+        "id": 314,
+        "x": -0.46,
+        "y": -0.331,
+        "z": 0.068,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 212,
-        "x": 0.471,
-        "y": 0.249,
-        "z": -0.491,
+        "id": 836,
+        "x": -0.023,
+        "y": 0.482,
+        "z": -1.076,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 97,
-        "x": -2.301,
-        "y": 2.349,
-        "z": -0.628,
+        "id": 613,
+        "x": -0.412,
+        "y": -0.377,
+        "z": -0.535,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 235,
+        "x": -1.089,
+        "y": -0.693,
+        "z": 1.074,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 621,
+        "x": -0.016,
+        "y": 0.178,
+        "z": 0.485,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 477,
+        "x": -1.163,
+        "y": 0.183,
+        "z": -0.599,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 745,
+        "x": -0.971,
+        "y": -1.02,
+        "z": 0.377,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 196,
+        "x": 0.156,
+        "y": -0.616,
+        "z": 0.876,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 30,
+        "x": -0.167,
+        "y": -0.24,
+        "z": 0.041,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 814,
+        "x": -0.708,
+        "y": 0.243,
+        "z": 0.701,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 78,
+        "x": -0.828,
+        "y": 0.456,
+        "z": 0.02,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 137,
+        "x": -0.2,
+        "y": 0.848,
+        "z": -0.59,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 208,
+        "x": -0.53,
+        "y": 0.107,
+        "z": 0.254,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 741,
+        "x": -0.668,
+        "y": 0.33,
+        "z": 0.278,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 306,
+        "x": 1.174,
+        "y": 1.964,
+        "z": 0.81,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 595,
+        "x": -0.281,
+        "y": 0.124,
+        "z": -0.152,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 626,
+        "x": -0.286,
+        "y": -1.221,
+        "z": -0.273,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 765,
+        "x": -0.671,
+        "y": -0.067,
+        "z": 0.419,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 767,
+        "x": 0.054,
+        "y": -4.479,
+        "z": 0.076,
         "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
         "tier": "S4 Unfavorable"
       },
       {
-        "id": 753,
-        "x": -0.118,
-        "y": 0.991,
-        "z": 0.705,
+        "id": 23,
+        "x": 2.483,
+        "y": 1.922,
+        "z": 1.013,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 275,
+        "x": 0.018,
+        "y": 0.494,
+        "z": -0.151,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 757,
+        "x": -0.259,
+        "y": -0.344,
+        "z": -0.256,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 840,
+        "x": -0.06,
+        "y": 0.756,
+        "z": -0.657,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 192,
+        "x": -0.669,
+        "y": -0.52,
+        "z": 0.02,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 813,
-        "x": 0.446,
-        "y": 0.538,
-        "z": -0.049,
+        "id": 665,
+        "x": 2.002,
+        "y": 0.779,
+        "z": -1.32,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 506,
+        "x": -0.468,
+        "y": -0.426,
+        "z": -0.111,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 417,
+        "x": -0.256,
+        "y": -0.906,
+        "z": 0.688,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 336,
-        "x": 0.063,
-        "y": 0.642,
-        "z": -0.064,
+        "id": 367,
+        "x": 0.139,
+        "y": 0.714,
+        "z": -0.208,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
+        "tier": "S2 Favorable"
       },
       {
-        "id": 558,
-        "x": 0.455,
-        "y": 0.333,
+        "id": 672,
+        "x": -0.644,
+        "y": 0.181,
         "z": -0.794,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 499,
-        "x": 1.415,
-        "y": -1.255,
-        "z": -0.524,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 84,
-        "x": -1.726,
-        "y": 2.063,
-        "z": -0.804,
-        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 10,
-        "x": 0.415,
-        "y": 0.326,
-        "z": 0.098,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 688,
-        "x": 0.907,
-        "y": -0.067,
-        "z": -0.514,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 174,
-        "x": 0.148,
-        "y": 0.546,
-        "z": -0.116,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 351,
-        "x": 0.24,
-        "y": 0.836,
-        "z": 0.791,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 118,
-        "x": 0.328,
-        "y": 0.614,
-        "z": 0.39,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 250,
-        "x": 0.668,
-        "y": 0.003,
-        "z": -0.183,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 803,
-        "x": 0.192,
-        "y": 0.652,
-        "z": -0.11,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 29,
-        "x": -0.274,
-        "y": 1.015,
-        "z": 0.394,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 628,
-        "x": -0.156,
-        "y": 0.978,
-        "z": 0.627,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 557,
-        "x": -0.236,
-        "y": 1.232,
-        "z": 0.352,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 439,
-        "x": 0.469,
-        "y": 0.471,
-        "z": 0.818,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 344,
-        "x": 0.21,
-        "y": 0.704,
-        "z": 0.126,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 81,
-        "x": 0.464,
-        "y": 0.432,
-        "z": 0.657,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 198,
-        "x": -0.342,
-        "y": 1.469,
-        "z": -0.18,
+        "id": 120,
+        "x": -0.705,
+        "y": 0.142,
+        "z": 0.544,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S4 Unfavorable"
       },
       {
-        "id": 359,
-        "x": 0.572,
-        "y": 0.167,
-        "z": 0.384,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 535,
-        "x": 0.022,
-        "y": 0.727,
-        "z": 0.173,
+        "id": 430,
+        "x": -0.491,
+        "y": 0.115,
+        "z": 1.205,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 816,
-        "x": -1.64,
-        "y": 2.042,
-        "z": -0.985,
-        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 844,
-        "x": 0.142,
-        "y": 0.645,
-        "z": 0.426,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 514,
-        "x": -2.555,
-        "y": 2.378,
-        "z": -1.164,
-        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 759,
-        "x": 0.295,
-        "y": 0.612,
-        "z": 0.349,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 444,
-        "x": 0.332,
-        "y": 0.816,
-        "z": 0.403,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 685,
-        "x": 1.231,
-        "y": -1.086,
-        "z": -0.18,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 545,
-        "x": -0.008,
-        "y": 0.927,
-        "z": 0.882,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 656,
-        "x": 1.068,
-        "y": -1.185,
-        "z": 0.142,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 549,
-        "x": 1.091,
-        "y": -1.346,
-        "z": -1.011,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 586,
-        "x": 0.079,
-        "y": 0.898,
-        "z": 0.04,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 599,
-        "x": 0.319,
-        "y": 0.36,
-        "z": -0.988,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 7,
-        "x": 0.224,
-        "y": 0.407,
-        "z": -0.317,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 296,
-        "x": 0.609,
-        "y": 0.186,
-        "z": 0.505,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 155,
-        "x": 0.831,
-        "y": -0.215,
-        "z": 0.336,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 326,
-        "x": -3.961,
-        "y": -2.099,
-        "z": 0.035,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 101,
-        "x": 0.36,
-        "y": 0.438,
-        "z": -0.432,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 361,
-        "x": 0.489,
-        "y": 0.139,
-        "z": -0.321,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 332,
-        "x": -3.675,
-        "y": -1.357,
-        "z": -0.624,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 383,
-        "x": 0.7,
-        "y": 0.061,
-        "z": -0.143,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 281,
+        "id": 732,
         "x": 0.326,
-        "y": 0.515,
-        "z": 0.692,
+        "y": 0.475,
+        "z": 1.262,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 2,
-        "x": 0.675,
-        "y": 0.112,
-        "z": 0.004,
+        "id": 848,
+        "x": -0.236,
+        "y": -0.172,
+        "z": 0.668,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 552,
+        "x": -0.445,
+        "y": -0.13,
+        "z": 0.316,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 331,
+        "x": -0.531,
+        "y": 0.678,
+        "z": -0.677,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 380,
+        "x": 0.715,
+        "y": -3.748,
+        "z": -0.548,
+        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 649,
+        "x": -1.011,
+        "y": -0.61,
+        "z": 1.106,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 265,
+        "x": -0.176,
+        "y": 0.12,
+        "z": 0.387,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 211,
+        "x": 18.544,
+        "y": -9.037,
+        "z": 2.048,
+        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 86,
+        "x": -0.803,
+        "y": -0.215,
+        "z": 0.411,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 758,
+        "x": -0.543,
+        "y": 0.852,
+        "z": 0.495,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 63,
+        "x": 0.069,
+        "y": 0.837,
+        "z": -0.371,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 679,
+        "x": -0.121,
+        "y": -1.011,
+        "z": 1.049,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 231,
-        "x": 1.239,
-        "y": -1.369,
-        "z": -0.092,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "id": 617,
+        "x": -1.07,
+        "y": -0.733,
+        "z": 0.012,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 363,
+        "x": 0.227,
+        "y": -0.445,
+        "z": -0.729,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 65,
+        "x": -0.593,
+        "y": 0.166,
+        "z": -0.034,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 485,
+        "x": 0.012,
+        "y": 0.614,
+        "z": -0.103,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S1 Prime PFZ"
       },
       {
-        "id": 457,
-        "x": 0.795,
-        "y": -0.124,
-        "z": -0.013,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 215,
-        "x": 0.561,
-        "y": 0.113,
-        "z": 0.063,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 210,
-        "x": 0.264,
-        "y": 0.679,
-        "z": 0.294,
+        "id": 483,
+        "x": -0.895,
+        "y": 0.259,
+        "z": 0.286,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 657,
-        "x": 0.623,
-        "y": 0.155,
-        "z": -0.283,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 715,
-        "x": 0.383,
-        "y": 0.201,
-        "z": 0.193,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 792,
-        "x": -2.346,
-        "y": 2.307,
-        "z": -1.197,
-        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 542,
-        "x": -0.633,
-        "y": 1.495,
-        "z": 0.04,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 319,
-        "x": 0.335,
-        "y": 0.481,
-        "z": 0.924,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 830,
-        "x": 0.386,
-        "y": 0.708,
-        "z": 0.127,
+        "id": 266,
+        "x": -0.312,
+        "y": -1.034,
+        "z": 0.182,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 580,
-        "x": -4.759,
-        "y": -1.582,
-        "z": 1.188,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 606,
-        "x": 0.507,
-        "y": 0.271,
-        "z": 0.031,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 785,
-        "x": 0.801,
-        "y": -0.045,
-        "z": -0.336,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 487,
-        "x": 0.249,
-        "y": 0.495,
-        "z": -0.299,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 409,
-        "x": -4.628,
-        "y": -0.815,
-        "z": -0.528,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 79,
-        "x": -0.144,
-        "y": 1.093,
-        "z": 0.713,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 148,
-        "x": -0.266,
-        "y": 1.174,
-        "z": 0.199,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 388,
-        "x": 0.599,
-        "y": 0.094,
-        "z": -0.654,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 837,
-        "x": 0.408,
-        "y": -0.358,
-        "z": 0.103,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 327,
-        "x": 0.356,
-        "y": 0.458,
-        "z": 0.303,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 377,
-        "x": 0.199,
-        "y": 0.605,
-        "z": 0.006,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 763,
-        "x": 0.14,
-        "y": 0.932,
-        "z": 0.296,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 342,
-        "x": -2.391,
-        "y": 2.517,
-        "z": -0.786,
-        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 404,
-        "x": 0.409,
-        "y": 0.307,
+        "id": 846,
+        "x": -0.294,
+        "y": 0.058,
         "z": -0.827,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 133,
-        "x": 0.324,
-        "y": 0.383,
-        "z": 0.112,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 440,
-        "x": 0.573,
-        "y": 0.262,
-        "z": 0.063,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 247,
-        "x": 0.889,
-        "y": -1.125,
-        "z": -0.344,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 521,
-        "x": -5.043,
-        "y": -1.791,
-        "z": 0.454,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
         "tier": "S4 Unfavorable"
       },
       {
-        "id": 55,
-        "x": 0.928,
-        "y": -0.241,
-        "z": -0.719,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 694,
-        "x": 1.249,
-        "y": -1.371,
-        "z": -0.427,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 640,
-        "x": 0.229,
-        "y": 0.867,
-        "z": 0.243,
+        "id": 280,
+        "x": -1.116,
+        "y": -0.558,
+        "z": 0.824,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S4 Unfavorable"
       },
       {
-        "id": 523,
-        "x": 0.026,
-        "y": 0.721,
-        "z": 0.104,
+        "id": 139,
+        "x": -0.617,
+        "y": -0.063,
+        "z": 0.602,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 311,
-        "x": 0.391,
-        "y": 0.406,
-        "z": -0.406,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 783,
-        "x": 0.01,
-        "y": 0.846,
-        "z": -0.538,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 204,
-        "x": 0.073,
-        "y": 0.823,
-        "z": -0.354,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 585,
-        "x": 0.48,
-        "y": 0.505,
-        "z": 1.399,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 601,
-        "x": -0.125,
-        "y": 1.404,
-        "z": 0.205,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 424,
-        "x": -0.496,
-        "y": 1.424,
-        "z": 0.465,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 328,
-        "x": -0.188,
-        "y": 1.067,
-        "z": -0.045,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 420,
-        "x": 0.194,
-        "y": 0.462,
-        "z": -0.175,
+        "id": 495,
+        "x": -0.075,
+        "y": 0.245,
+        "z": 0.337,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 60,
-        "x": 0.142,
-        "y": 0.593,
-        "z": -0.481,
+        "id": 96,
+        "x": -0.152,
+        "y": 0.233,
+        "z": -0.265,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
+        "tier": "S2 Favorable"
       },
       {
-        "id": 199,
-        "x": 0.06,
-        "y": 0.541,
-        "z": -0.476,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 655,
-        "x": -2.056,
-        "y": 1.982,
-        "z": -0.45,
-        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 808,
-        "x": 1.665,
-        "y": -1.341,
-        "z": -0.708,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 428,
-        "x": 0.023,
-        "y": 0.92,
-        "z": 0.388,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 664,
-        "x": 2.043,
-        "y": -2.021,
-        "z": 0.212,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 513,
-        "x": -3.475,
-        "y": -0.811,
-        "z": 0.603,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 825,
-        "x": 0.146,
-        "y": 0.855,
+        "id": 539,
+        "x": 0.113,
+        "y": -0.041,
         "z": 0.016,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 831,
-        "x": 0.392,
-        "y": 0.403,
-        "z": 0.332,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 360,
-        "x": 1.918,
-        "y": -1.953,
-        "z": 0.151,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 294,
-        "x": 0.163,
-        "y": 0.774,
-        "z": -0.127,
+        "id": 49,
+        "x": -0.469,
+        "y": -0.997,
+        "z": 0.175,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S4 Unfavorable"
       },
       {
-        "id": 677,
-        "x": 0.716,
-        "y": -0.042,
-        "z": 0.073,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 764,
-        "x": 0.358,
-        "y": 0.282,
-        "z": 0.294,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 90,
-        "x": -3.732,
-        "y": -0.862,
-        "z": -0.093,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 797,
-        "x": -0.03,
-        "y": 1.038,
-        "z": 0.678,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 181,
-        "x": 1.357,
-        "y": -1.278,
-        "z": 0.211,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 451,
-        "x": 0.297,
-        "y": 0.53,
-        "z": 0.427,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 611,
-        "x": -0.016,
-        "y": 0.792,
-        "z": 0.343,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 794,
-        "x": 1.405,
-        "y": -1.423,
-        "z": -0.061,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 158,
-        "x": 0.199,
-        "y": 0.64,
-        "z": 0.362,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 69,
-        "x": 0.034,
-        "y": 0.982,
-        "z": -0.01,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 493,
-        "x": 1.252,
-        "y": -1.271,
-        "z": 0.559,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 131,
-        "x": 0.841,
-        "y": -0.221,
-        "z": 0.18,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 44,
-        "x": 0.711,
-        "y": 0.018,
-        "z": -0.076,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 299,
-        "x": 1.864,
-        "y": -1.597,
-        "z": -0.948,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 70,
-        "x": 1.137,
-        "y": -1.453,
-        "z": 0.348,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 431,
-        "x": 0.587,
-        "y": 0.212,
-        "z": 0.588,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 393,
-        "x": 1.643,
-        "y": -1.85,
-        "z": -0.512,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 346,
-        "x": -0.165,
-        "y": 0.942,
-        "z": 0.434,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 497,
-        "x": 0.271,
-        "y": 0.491,
-        "z": -0.037,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 239,
-        "x": 0.336,
-        "y": 0.362,
-        "z": -0.371,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 135,
-        "x": 0.996,
-        "y": -0.836,
-        "z": 0.142,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 82,
-        "x": 0.337,
-        "y": 0.215,
-        "z": -0.358,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 165,
-        "x": -0.378,
-        "y": 1.127,
-        "z": 0.357,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 164,
-        "x": -0.488,
-        "y": 1.502,
-        "z": -0.231,
+        "id": 829,
+        "x": -1.024,
+        "y": -0.719,
+        "z": 0.179,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S4 Unfavorable"
       },
       {
-        "id": 28,
-        "x": 0.275,
-        "y": 0.612,
-        "z": -0.164,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 450,
-        "x": 0.455,
-        "y": 0.419,
-        "z": -0.144,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 193,
-        "x": 0.264,
-        "y": 0.396,
-        "z": 0.283,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 796,
-        "x": 0.015,
-        "y": 0.971,
-        "z": -0.077,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 605,
-        "x": 0.009,
-        "y": 1.114,
-        "z": -0.021,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 478,
-        "x": 1.66,
-        "y": -1.419,
-        "z": -0.089,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 136,
-        "x": -0.05,
-        "y": 0.922,
-        "z": -0.118,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 703,
-        "x": 0.619,
-        "y": -0.066,
-        "z": -0.575,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 425,
-        "x": 1.107,
-        "y": -1.199,
-        "z": -0.015,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 140,
-        "x": -2.038,
-        "y": 1.67,
-        "z": -0.992,
-        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 173,
-        "x": 0.092,
-        "y": 0.758,
-        "z": 0.27,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 6,
-        "x": 0.81,
-        "y": -0.246,
-        "z": -0.215,
+        "id": 802,
+        "x": -0.177,
+        "y": 0.7,
+        "z": -0.004,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 554,
-        "x": 0.001,
-        "y": 0.894,
-        "z": -0.487,
+        "id": 697,
+        "x": 0.327,
+        "y": -0.033,
+        "z": -0.689,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 570,
-        "x": 0.239,
-        "y": 0.846,
-        "z": 0.412,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 73,
-        "x": 0.202,
-        "y": 0.601,
-        "z": 0.539,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 589,
-        "x": 0.236,
-        "y": 0.461,
-        "z": 0.806,
+        "id": 429,
+        "x": 0.303,
+        "y": 0.322,
+        "z": -0.754,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 712,
-        "x": 0.699,
-        "y": 0.016,
-        "z": 0.462,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 826,
-        "x": 1.707,
-        "y": -1.762,
-        "z": -0.174,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 145,
-        "x": 0.127,
-        "y": 0.565,
-        "z": -0.832,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 234,
-        "x": -0.033,
-        "y": 1.038,
-        "z": 0.374,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 220,
-        "x": -2.053,
-        "y": 2.205,
-        "z": -0.651,
-        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 334,
-        "x": 0.138,
-        "y": 0.803,
-        "z": -0.536,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 352,
-        "x": 0.509,
-        "y": 0.143,
-        "z": -0.13,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 132,
-        "x": -3.724,
-        "y": -1.313,
-        "z": -0.037,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 631,
-        "x": 0.328,
-        "y": 0.435,
-        "z": 0.152,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 482,
-        "x": 0.441,
-        "y": 0.457,
-        "z": 0.268,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 481,
-        "x": 0.115,
-        "y": 0.759,
-        "z": -0.133,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 41,
-        "x": -4.081,
-        "y": -1.352,
-        "z": 0.142,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 526,
-        "x": 1.165,
-        "y": -1.302,
-        "z": -0.443,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 108,
-        "x": 0.307,
-        "y": 0.73,
-        "z": 0.305,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 382,
+        "id": 650,
         "x": 1.191,
-        "y": -0.986,
-        "z": -0.189,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
+        "y": -3.798,
+        "z": -1.032,
+        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
+        "tier": "S4 Unfavorable"
       },
       {
-        "id": 56,
-        "x": 0.739,
-        "y": 0.105,
-        "z": -0.036,
+        "id": 845,
+        "x": -0.236,
+        "y": -0.2,
+        "z": -0.322,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 709,
-        "x": 1.436,
-        "y": -1.122,
-        "z": -0.469,
+        "id": 749,
+        "x": 0.189,
+        "y": 1.062,
+        "z": 0.108,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 33,
+        "x": -0.732,
+        "y": 0.674,
+        "z": 0.653,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 31,
+        "x": -0.755,
+        "y": -1.033,
+        "z": 0.524,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 736,
+        "x": -0.332,
+        "y": -0.032,
+        "z": -0.906,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 338,
+        "x": -0.877,
+        "y": -0.945,
+        "z": -0.26,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 362,
+        "x": -1.128,
+        "y": -0.243,
+        "z": -0.152,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 76,
+        "x": -0.742,
+        "y": -0.09,
+        "z": 0.509,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 682,
+        "x": -0.694,
+        "y": -0.762,
+        "z": 0.112,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 716,
+        "x": 1.753,
+        "y": 1.894,
+        "z": -0.961,
         "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 518,
+        "x": -0.627,
+        "y": -0.07,
+        "z": 0.974,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 827,
-        "x": 0.013,
-        "y": 0.688,
+        "id": 72,
+        "x": -0.661,
+        "y": -0.869,
+        "z": 0.088,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 77,
+        "x": -0.004,
+        "y": 0.191,
+        "z": 0.627,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 742,
+        "x": -0.658,
+        "y": -0.491,
+        "z": -1.008,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 692,
+        "x": 1.517,
+        "y": 1.669,
+        "z": 0.848,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 833,
+        "x": -0.02,
+        "y": -3.764,
+        "z": 0.246,
+        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 109,
+        "x": 2.172,
+        "y": 2.094,
+        "z": -0.187,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 693,
+        "x": -0.357,
+        "y": -0.025,
+        "z": 0.244,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 309,
+        "x": -0.42,
+        "y": -0.068,
+        "z": -0.06,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 290,
+        "x": -0.547,
+        "y": -0.647,
+        "z": 0.12,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 433,
+        "x": -0.581,
+        "y": 0.09,
+        "z": 0.331,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 668,
+        "x": -0.358,
+        "y": -0.69,
+        "z": 0.477,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 291,
+        "x": -1.341,
+        "y": -0.294,
+        "z": 0.065,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 259,
+        "x": -0.458,
+        "y": 0.314,
+        "z": -0.019,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 168,
+        "x": -1.188,
+        "y": -0.425,
+        "z": -0.152,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 436,
+        "x": -0.525,
+        "y": -0.393,
+        "z": 0.266,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 355,
+        "x": 2.706,
+        "y": 1.839,
+        "z": -0.367,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 286,
+        "x": -0.327,
+        "y": 0.76,
+        "z": 0.56,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 641,
+        "x": 2.275,
+        "y": 2.184,
+        "z": -0.001,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 584,
+        "x": -0.155,
+        "y": 0.485,
+        "z": -0.952,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 5,
+        "x": -0.271,
+        "y": 0.855,
+        "z": 0.179,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 54,
+        "x": 0.078,
+        "y": -0.387,
+        "z": -0.195,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 575,
+        "x": 2.112,
+        "y": 0.954,
+        "z": -0.366,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 798,
+        "x": -0.712,
+        "y": -0.638,
+        "z": 0.662,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 254,
+        "x": -0.274,
+        "y": -0.824,
         "z": -0.219,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 453,
-        "x": 0.19,
-        "y": 0.786,
-        "z": 0.332,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 24,
-        "x": 0.473,
-        "y": 0.485,
-        "z": 1.048,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 316,
-        "x": 0.183,
-        "y": 0.628,
-        "z": 0.176,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 774,
-        "x": 1.004,
-        "y": -1.407,
-        "z": -0.725,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 394,
-        "x": 0.552,
-        "y": 0.238,
-        "z": 0.567,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 51,
-        "x": -0.19,
-        "y": 1.108,
-        "z": 1.036,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 368,
-        "x": 0.142,
-        "y": 0.854,
-        "z": -0.098,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 779,
-        "x": 1.074,
-        "y": -1.031,
-        "z": 0.028,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 547,
-        "x": -5.794,
-        "y": -2.477,
-        "z": 0.022,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 264,
-        "x": 1.207,
-        "y": -1.007,
-        "z": -0.578,
+        "id": 213,
+        "x": 2.36,
+        "y": 2.014,
+        "z": 0.51,
         "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
         "tier": "S1 Prime PFZ"
       },
       {
-        "id": 396,
-        "x": 1.521,
-        "y": -1.8,
-        "z": -0.878,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 588,
-        "x": 0.713,
-        "y": 0.188,
-        "z": 0.072,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 445,
-        "x": 0.344,
-        "y": 0.2,
-        "z": -0.22,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 422,
-        "x": 0.431,
-        "y": 0.415,
-        "z": -0.102,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 18,
-        "x": 0.188,
-        "y": 0.621,
-        "z": 0.728,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 615,
-        "x": 1.068,
-        "y": -1.167,
-        "z": -0.176,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 462,
-        "x": 0.114,
-        "y": 0.572,
-        "z": -0.295,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 83,
-        "x": 0.842,
-        "y": -0.205,
-        "z": -0.133,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 61,
-        "x": -4.555,
-        "y": -1.396,
-        "z": -0.078,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 622,
-        "x": 1.656,
-        "y": -1.204,
-        "z": -0.697,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 285,
-        "x": 0.789,
-        "y": -0.073,
-        "z": 0.159,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 323,
-        "x": 0.342,
-        "y": 0.615,
-        "z": 0.485,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 579,
-        "x": -0.077,
-        "y": 1.063,
-        "z": 0.246,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 494,
-        "x": 1.24,
-        "y": -1.506,
-        "z": -0.421,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 182,
-        "x": 0.06,
-        "y": 0.631,
-        "z": 0.344,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 398,
-        "x": 0.231,
-        "y": 0.623,
-        "z": 0.09,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 531,
-        "x": 1.255,
-        "y": -1.264,
-        "z": -0.073,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 223,
-        "x": -2.112,
-        "y": 1.777,
-        "z": -0.968,
-        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 468,
-        "x": 0.544,
-        "y": 0.172,
-        "z": 0.384,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 602,
-        "x": 0.511,
-        "y": 0.363,
+        "id": 594,
+        "x": -0.047,
+        "y": -3.856,
         "z": -0.391,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 442,
-        "x": 0.318,
-        "y": 0.528,
-        "z": 0.472,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 365,
-        "x": 0.852,
-        "y": -0.148,
-        "z": 0.008,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 490,
-        "x": 0.574,
-        "y": -0.017,
-        "z": -0.651,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 525,
-        "x": 0.173,
-        "y": 0.505,
-        "z": -0.313,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 176,
-        "x": -3.676,
-        "y": -1.327,
-        "z": 0.325,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 576,
-        "x": 0.703,
-        "y": 0.229,
-        "z": -0.373,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 768,
-        "x": 0.345,
-        "y": 0.531,
-        "z": 0.88,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 163,
-        "x": 1.905,
-        "y": -1.998,
-        "z": -0.079,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 248,
-        "x": 0.266,
-        "y": 0.441,
-        "z": 1.0,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 548,
-        "x": 0.449,
-        "y": 0.168,
-        "z": 0.485,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 750,
-        "x": -2.686,
-        "y": 2.68,
-        "z": -0.259,
         "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
         "tier": "S4 Unfavorable"
       },
       {
-        "id": 74,
-        "x": -1.965,
-        "y": 1.613,
-        "z": -0.932,
-        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 113,
-        "x": 1.927,
-        "y": -1.826,
-        "z": 0.152,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 465,
-        "x": 1.69,
-        "y": -1.993,
-        "z": -0.025,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 448,
-        "x": 1.153,
-        "y": -1.244,
-        "z": -1.043,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "id": 212,
+        "x": 0.035,
+        "y": 0.161,
+        "z": -0.273,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 104,
-        "x": 2.006,
-        "y": -2.214,
-        "z": -0.167,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 114,
-        "x": 0.343,
-        "y": 0.456,
-        "z": -0.363,
+        "id": 97,
+        "x": 0.132,
+        "y": 1.323,
+        "z": -0.503,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
+        "tier": "S2 Favorable"
       },
       {
-        "id": 333,
-        "x": 1.485,
-        "y": -1.569,
-        "z": 0.174,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 92,
-        "x": 0.066,
-        "y": 0.902,
-        "z": 0.934,
+        "id": 753,
+        "x": -1.056,
+        "y": -0.087,
+        "z": -0.209,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S4 Unfavorable"
       },
       {
-        "id": 784,
-        "x": 0.211,
-        "y": 0.573,
-        "z": 0.007,
+        "id": 813,
+        "x": -0.467,
+        "y": 0.727,
+        "z": -0.379,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 89,
-        "x": 0.212,
-        "y": 0.801,
-        "z": -0.19,
+        "id": 336,
+        "x": -0.254,
+        "y": -0.469,
+        "z": -0.929,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S4 Unfavorable"
       },
       {
-        "id": 810,
-        "x": 0.678,
-        "y": 0.092,
-        "z": -0.011,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 780,
-        "x": 1.032,
-        "y": -1.04,
-        "z": 0.321,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 791,
-        "x": 0.776,
-        "y": 0.078,
-        "z": 0.142,
+        "id": 558,
+        "x": 0.068,
+        "y": -1.059,
+        "z": -0.903,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 522,
-        "x": -0.253,
-        "y": 1.023,
-        "z": -0.657,
+        "id": 499,
+        "x": 1.614,
+        "y": 1.508,
+        "z": -1.038,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 84,
+        "x": -0.406,
+        "y": -0.352,
+        "z": -0.154,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 10,
+        "x": -0.523,
+        "y": -0.182,
+        "z": -0.469,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 688,
+        "x": 0.109,
+        "y": 0.417,
+        "z": -0.293,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 174,
+        "x": 0.029,
+        "y": 0.421,
+        "z": 0.311,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 351,
+        "x": 2.688,
+        "y": 2.227,
+        "z": -0.006,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 118,
+        "x": 0.197,
+        "y": -0.531,
+        "z": -0.513,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 250,
+        "x": 0.21,
+        "y": 0.108,
+        "z": 0.44,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 803,
+        "x": -0.858,
+        "y": -0.251,
+        "z": -0.544,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S4 Unfavorable"
       },
       {
-        "id": 527,
-        "x": -0.048,
-        "y": 0.912,
-        "z": -0.681,
+        "id": 29,
+        "x": -0.559,
+        "y": -0.368,
+        "z": 0.244,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 94,
-        "x": -3.195,
-        "y": -1.631,
-        "z": 0.508,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S4 Unfavorable"
-      },
-      {
-        "id": 11,
-        "x": 0.788,
-        "y": -0.831,
-        "z": -0.091,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 788,
-        "x": 2.046,
-        "y": -1.973,
-        "z": -0.161,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 43,
-        "x": 1.489,
-        "y": -1.426,
-        "z": -0.309,
+        "id": 628,
+        "x": 1.354,
+        "y": 1.517,
+        "z": 0.153,
         "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
         "tier": "S1 Prime PFZ"
       },
       {
-        "id": 42,
-        "x": 0.891,
-        "y": 0.128,
-        "z": 0.392,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 329,
-        "x": 0.34,
-        "y": 0.412,
-        "z": 0.586,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 167,
-        "x": 1.601,
-        "y": -1.295,
-        "z": 0.577,
+        "id": 557,
+        "x": 2.731,
+        "y": 2.432,
+        "z": 0.438,
         "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
         "tier": "S1 Prime PFZ"
       },
       {
-        "id": 743,
-        "x": 0.427,
-        "y": 0.639,
-        "z": 0.332,
+        "id": 439,
+        "x": 0.06,
+        "y": -0.742,
+        "z": 0.948,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 344,
+        "x": -0.669,
+        "y": -0.326,
+        "z": 0.561,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 516,
-        "x": 0.239,
-        "y": 0.469,
-        "z": 0.233,
+        "id": 81,
+        "x": -0.027,
+        "y": 0.369,
+        "z": 0.105,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 660,
-        "x": 0.636,
-        "y": 0.112,
-        "z": 0.444,
+        "id": 198,
+        "x": -0.04,
+        "y": 0.544,
+        "z": -0.428,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 662,
-        "x": 1.58,
-        "y": -1.617,
-        "z": -0.468,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 178,
-        "x": 0.036,
-        "y": 0.879,
-        "z": 1.159,
+        "id": 359,
+        "x": 0.474,
+        "y": 0.107,
+        "z": 0.248,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 815,
-        "x": -0.039,
-        "y": 0.922,
-        "z": -0.362,
+        "id": 535,
+        "x": -0.875,
+        "y": -0.174,
+        "z": 0.537,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S4 Unfavorable"
       },
       {
-        "id": 569,
-        "x": 1.6,
-        "y": -1.657,
-        "z": 0.474,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 177,
-        "x": 1.345,
-        "y": -1.461,
-        "z": -0.427,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 583,
-        "x": 1.369,
-        "y": -1.519,
-        "z": -0.662,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 678,
-        "x": 1.081,
-        "y": -1.145,
-        "z": -0.518,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "id": 816,
+        "x": -0.581,
+        "y": 0.02,
+        "z": 0.524,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 590,
-        "x": 1.023,
-        "y": -0.793,
-        "z": 0.474,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 257,
-        "x": 0.177,
-        "y": 0.587,
-        "z": 0.535,
+        "id": 844,
+        "x": -0.705,
+        "y": -0.405,
+        "z": -0.093,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 567,
-        "x": 0.822,
-        "y": -0.603,
-        "z": -0.569,
+        "id": 514,
+        "x": -0.143,
+        "y": 0.916,
+        "z": -0.04,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 759,
+        "x": -0.996,
+        "y": -0.563,
+        "z": 1.094,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 444,
+        "x": 1.621,
+        "y": 2.473,
+        "z": 0.646,
         "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
         "tier": "S1 Prime PFZ"
       },
       {
-        "id": 335,
-        "x": 0.09,
-        "y": 0.606,
-        "z": 0.066,
+        "id": 685,
+        "x": -0.353,
+        "y": 0.503,
+        "z": 0.4,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 530,
-        "x": 0.616,
-        "y": 0.223,
-        "z": -0.567,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 15,
-        "x": 1.548,
-        "y": -1.43,
-        "z": -0.236,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 3,
-        "x": 0.643,
-        "y": 0.252,
+        "id": 545,
+        "x": -0.466,
+        "y": -0.155,
+        "z": -1.005,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 656,
+        "x": -0.903,
+        "y": -1.011,
         "z": 0.552,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 549,
+        "x": -0.117,
+        "y": 0.373,
+        "z": 0.599,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 586,
+        "x": -0.503,
+        "y": -0.422,
+        "z": 0.633,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 405,
-        "x": 1.029,
-        "y": -1.213,
-        "z": -0.111,
+        "id": 599,
+        "x": -1.033,
+        "y": -0.778,
+        "z": 0.069,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 7,
+        "x": 2.871,
+        "y": 1.12,
+        "z": -0.648,
         "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
         "tier": "S1 Prime PFZ"
       },
       {
-        "id": 256,
-        "x": 0.07,
-        "y": 0.987,
+        "id": 296,
+        "x": -0.532,
+        "y": -0.029,
+        "z": 0.258,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 155,
+        "x": -0.215,
+        "y": -0.391,
+        "z": 0.76,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 326,
+        "x": -0.636,
+        "y": -0.212,
+        "z": 1.085,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 101,
+        "x": -0.563,
+        "y": 0.136,
+        "z": -0.934,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 361,
+        "x": -0.967,
+        "y": -0.2,
+        "z": -0.009,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 332,
+        "x": -0.942,
+        "y": 0.328,
+        "z": -0.584,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 383,
+        "x": -0.767,
+        "y": -0.235,
+        "z": -0.611,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 281,
+        "x": -0.631,
+        "y": -0.079,
+        "z": -0.649,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 2,
+        "x": -0.538,
+        "y": -0.108,
+        "z": 1.069,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 231,
+        "x": -0.702,
+        "y": -0.032,
+        "z": -0.34,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 457,
+        "x": -0.519,
+        "y": -0.078,
+        "z": -0.189,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 215,
+        "x": -0.752,
+        "y": -0.367,
+        "z": -0.843,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 210,
+        "x": 0.973,
+        "y": -0.605,
+        "z": 0.533,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 657,
+        "x": 0.77,
+        "y": 0.638,
+        "z": 0.655,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 715,
+        "x": -0.24,
+        "y": -0.517,
+        "z": -0.018,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 792,
+        "x": -0.646,
+        "y": -0.087,
         "z": 0.381,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 411,
-        "x": 0.152,
-        "y": 0.753,
-        "z": -0.134,
+        "id": 542,
+        "x": 2.299,
+        "y": 1.359,
+        "z": -0.54,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 319,
+        "x": 1.678,
+        "y": 2.33,
+        "z": -0.144,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 830,
+        "x": -1.027,
+        "y": -0.489,
+        "z": -0.234,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S4 Unfavorable"
       },
       {
-        "id": 432,
-        "x": 1.679,
-        "y": -1.643,
-        "z": -0.08,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "id": 580,
+        "x": -0.844,
+        "y": -0.721,
+        "z": -0.068,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 606,
+        "x": -0.376,
+        "y": 0.476,
+        "z": 1.268,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 375,
-        "x": -0.072,
-        "y": 1.087,
-        "z": 0.389,
+        "id": 785,
+        "x": 1.842,
+        "y": 1.518,
+        "z": -0.347,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 487,
+        "x": 0.093,
+        "y": 0.834,
+        "z": 0.166,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 409,
+        "x": -0.423,
+        "y": -0.269,
+        "z": -0.322,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 222,
-        "x": 0.29,
-        "y": 0.653,
-        "z": 0.044,
+        "id": 79,
+        "x": -0.73,
+        "y": 0.342,
+        "z": 0.85,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 713,
-        "x": -5.013,
-        "y": -1.911,
-        "z": -0.567,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
+        "id": 148,
+        "x": 2.427,
+        "y": 2.466,
+        "z": -0.151,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 388,
+        "x": 2.485,
+        "y": 2.858,
+        "z": 0.462,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 837,
+        "x": -0.067,
+        "y": -0.317,
+        "z": 0.162,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 327,
+        "x": -0.324,
+        "y": -0.287,
+        "z": -1.077,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 377,
+        "x": -0.401,
+        "y": -0.15,
+        "z": 0.888,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 763,
+        "x": 2.823,
+        "y": 1.625,
+        "z": 0.499,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 342,
+        "x": -0.58,
+        "y": -0.153,
+        "z": 0.032,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 404,
+        "x": -0.737,
+        "y": 0.05,
+        "z": 0.632,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 133,
+        "x": -0.109,
+        "y": 0.025,
+        "z": 0.098,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 440,
+        "x": 2.71,
+        "y": 2.618,
+        "z": -0.911,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 247,
+        "x": -0.511,
+        "y": -0.093,
+        "z": 0.158,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 521,
+        "x": -0.593,
+        "y": -0.618,
+        "z": -0.321,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S4 Unfavorable"
       },
       {
-        "id": 412,
-        "x": 0.409,
-        "y": 0.309,
+        "id": 55,
+        "x": -0.822,
+        "y": 0.21,
+        "z": -1.418,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 694,
+        "x": -0.551,
+        "y": -0.104,
+        "z": 0.77,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 640,
+        "x": -0.947,
+        "y": -0.009,
+        "z": -0.272,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 523,
+        "x": -0.179,
+        "y": -0.169,
+        "z": 0.629,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 311,
+        "x": -0.866,
+        "y": 0.431,
+        "z": -0.315,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 783,
+        "x": -1.119,
+        "y": -0.471,
+        "z": 0.765,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 204,
+        "x": -0.339,
+        "y": 1.431,
+        "z": -0.418,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 585,
+        "x": -1.024,
+        "y": 0.009,
+        "z": 0.184,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 601,
+        "x": -0.514,
+        "y": 0.387,
+        "z": 0.556,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 424,
+        "x": -1.061,
+        "y": -0.725,
+        "z": 0.297,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 328,
+        "x": -0.597,
+        "y": -0.468,
+        "z": 0.464,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 420,
+        "x": -0.587,
+        "y": -0.641,
+        "z": 0.373,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 60,
+        "x": -0.113,
+        "y": 0.585,
+        "z": 0.486,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 199,
+        "x": 0.908,
+        "y": -4.373,
+        "z": -0.785,
+        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 655,
+        "x": -0.946,
+        "y": -0.301,
+        "z": 1.176,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 808,
+        "x": -0.527,
+        "y": 0.393,
+        "z": 0.619,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 428,
+        "x": -0.517,
+        "y": -0.363,
+        "z": 0.648,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 664,
+        "x": -0.199,
+        "y": -0.784,
+        "z": 0.094,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 513,
+        "x": -0.65,
+        "y": -0.675,
+        "z": -0.266,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 825,
+        "x": -0.248,
+        "y": 0.546,
+        "z": 0.112,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 831,
+        "x": -0.75,
+        "y": 0.183,
+        "z": 0.015,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 360,
+        "x": -0.556,
+        "y": -0.572,
+        "z": 0.04,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 294,
+        "x": -0.533,
+        "y": 0.04,
+        "z": 0.408,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 677,
+        "x": -1.159,
+        "y": -0.265,
+        "z": 0.343,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 764,
+        "x": -0.024,
+        "y": 0.094,
+        "z": 0.232,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 90,
+        "x": 0.153,
+        "y": -4.012,
+        "z": -0.713,
+        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 797,
+        "x": 0.026,
+        "y": 0.31,
+        "z": -0.342,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 181,
+        "x": -0.485,
+        "y": -1.241,
+        "z": 0.248,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 451,
+        "x": 1.436,
+        "y": 1.571,
+        "z": -0.053,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 611,
+        "x": -1.075,
+        "y": -0.243,
+        "z": -0.154,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 794,
+        "x": 2.008,
+        "y": 1.546,
+        "z": -0.608,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 158,
+        "x": -1.096,
+        "y": 0.103,
+        "z": 0.578,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 69,
+        "x": -0.307,
+        "y": -4.603,
+        "z": -0.027,
+        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 493,
+        "x": 1.583,
+        "y": 0.925,
+        "z": -0.629,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 131,
+        "x": -0.174,
+        "y": -0.828,
+        "z": 0.197,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 44,
+        "x": 0.174,
+        "y": 0.228,
+        "z": 1.145,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 299,
+        "x": 2.275,
+        "y": 1.062,
+        "z": 0.357,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 70,
+        "x": -0.616,
+        "y": 0.557,
+        "z": -0.365,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 431,
+        "x": -0.434,
+        "y": -0.278,
+        "z": 0.292,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 393,
+        "x": -0.056,
+        "y": -3.909,
+        "z": -0.703,
+        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 346,
+        "x": 0.083,
+        "y": -0.358,
+        "z": -0.434,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 497,
+        "x": -0.429,
+        "y": -0.118,
+        "z": 0.449,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 239,
+        "x": -0.478,
+        "y": 0.13,
+        "z": -1.006,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 135,
+        "x": -0.27,
+        "y": 0.235,
+        "z": -0.699,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 82,
+        "x": -0.209,
+        "y": 1.143,
+        "z": -0.592,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 165,
+        "x": -0.515,
+        "y": 0.288,
+        "z": 0.544,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 164,
+        "x": -1.007,
+        "y": 0.128,
+        "z": -0.082,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 28,
+        "x": -0.773,
+        "y": -0.348,
+        "z": 0.607,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 450,
+        "x": -0.612,
+        "y": -0.424,
+        "z": -1.017,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 193,
+        "x": -0.035,
+        "y": 0.699,
+        "z": 0.837,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 796,
+        "x": 2.15,
+        "y": 1.891,
+        "z": 0.196,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 605,
+        "x": 1.042,
+        "y": -4.937,
+        "z": -0.297,
+        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 478,
+        "x": -0.262,
+        "y": 0.351,
+        "z": 1.084,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 136,
+        "x": -0.273,
+        "y": -0.285,
+        "z": -0.224,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 703,
+        "x": -0.233,
+        "y": 0.5,
+        "z": -0.82,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 425,
+        "x": -0.391,
+        "y": 0.028,
+        "z": 0.584,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 140,
+        "x": -0.838,
+        "y": -0.25,
+        "z": 0.26,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 173,
+        "x": -0.55,
+        "y": 0.302,
+        "z": -0.408,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 6,
+        "x": -0.941,
+        "y": -0.585,
+        "z": 0.323,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 554,
+        "x": -1.13,
+        "y": -1.02,
+        "z": 0.807,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 570,
+        "x": -0.156,
+        "y": -1.053,
+        "z": -0.781,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 73,
+        "x": -0.502,
+        "y": 0.151,
+        "z": 0.712,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 589,
+        "x": 1.001,
+        "y": 1.244,
+        "z": -1.251,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 712,
+        "x": -0.498,
+        "y": -0.703,
+        "z": 0.812,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 826,
+        "x": -0.577,
+        "y": -0.363,
+        "z": 1.04,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 145,
+        "x": -0.281,
+        "y": -0.044,
+        "z": -0.421,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 234,
+        "x": -0.367,
+        "y": 0.548,
+        "z": 0.32,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 220,
+        "x": -0.48,
+        "y": -0.66,
+        "z": 0.779,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 334,
+        "x": -0.918,
+        "y": 0.234,
+        "z": 0.073,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 352,
+        "x": -0.341,
+        "y": 0.759,
+        "z": -1.066,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 132,
+        "x": 0.502,
+        "y": -4.385,
+        "z": -0.273,
+        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 631,
+        "x": -0.333,
+        "y": -0.411,
+        "z": 1.811,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 482,
+        "x": -0.562,
+        "y": 0.266,
+        "z": -0.429,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 481,
+        "x": -0.415,
+        "y": -0.299,
+        "z": 0.676,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 41,
+        "x": -0.762,
+        "y": -0.643,
+        "z": -0.276,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 526,
+        "x": -1.319,
+        "y": 0.293,
+        "z": -0.06,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 108,
+        "x": 0.04,
+        "y": -0.421,
+        "z": -0.709,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 382,
+        "x": -0.31,
+        "y": 0.067,
+        "z": -0.042,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 56,
+        "x": -0.954,
+        "y": -0.355,
+        "z": 0.386,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 709,
+        "x": -0.505,
+        "y": -0.372,
+        "z": -0.411,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 827,
+        "x": -0.482,
+        "y": -0.667,
+        "z": -0.033,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 453,
+        "x": -0.228,
+        "y": 0.581,
+        "z": -0.293,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 24,
+        "x": -0.289,
+        "y": -0.09,
+        "z": -0.223,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 316,
+        "x": -0.782,
+        "y": -0.358,
+        "z": -1.711,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 774,
+        "x": -1.149,
+        "y": -0.55,
+        "z": -0.641,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 394,
+        "x": -0.465,
+        "y": -0.119,
+        "z": 0.297,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 51,
+        "x": -0.687,
+        "y": -0.409,
+        "z": -0.295,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 368,
+        "x": -0.115,
+        "y": -0.202,
+        "z": 1.055,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 779,
+        "x": -0.473,
+        "y": 0.503,
+        "z": -0.063,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 547,
+        "x": 0.107,
+        "y": -4.112,
+        "z": -0.558,
+        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 264,
+        "x": 1.868,
+        "y": 1.323,
+        "z": -0.027,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 396,
+        "x": 2.074,
+        "y": 1.617,
+        "z": -0.55,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 588,
+        "x": -0.576,
+        "y": -0.483,
+        "z": -0.09,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 445,
+        "x": -0.633,
+        "y": 0.086,
         "z": 0.085,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 381,
-        "x": 1.587,
-        "y": -1.457,
-        "z": -0.335,
+        "id": 422,
+        "x": 2.089,
+        "y": 0.865,
+        "z": 0.184,
         "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
         "tier": "S1 Prime PFZ"
       },
       {
-        "id": 324,
-        "x": -4.301,
-        "y": -2.259,
-        "z": 0.01,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
+        "id": 18,
+        "x": 0.32,
+        "y": -0.81,
+        "z": -0.12,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 615,
+        "x": 1.388,
+        "y": 1.274,
+        "z": 1.091,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 462,
+        "x": -0.616,
+        "y": -0.042,
+        "z": -0.026,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 83,
+        "x": -0.339,
+        "y": 0.439,
+        "z": 0.072,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 61,
+        "x": 1.487,
+        "y": 1.249,
+        "z": 0.146,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 622,
+        "x": -0.519,
+        "y": 0.987,
+        "z": -0.913,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 285,
+        "x": -0.433,
+        "y": 0.787,
+        "z": -0.649,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 323,
+        "x": -0.141,
+        "y": -0.91,
+        "z": 0.772,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 579,
+        "x": 1.913,
+        "y": 2.214,
+        "z": -0.353,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 494,
+        "x": -0.41,
+        "y": 0.004,
+        "z": -0.649,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 182,
+        "x": -0.692,
+        "y": 0.221,
+        "z": -0.169,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 398,
+        "x": -0.444,
+        "y": -0.081,
+        "z": 0.176,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 531,
+        "x": -0.11,
+        "y": 0.809,
+        "z": 0.72,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 223,
+        "x": 1.689,
+        "y": 1.84,
+        "z": -0.141,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 468,
+        "x": 1.134,
+        "y": 2.824,
+        "z": -1.407,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 602,
+        "x": -0.621,
+        "y": -0.413,
+        "z": 0.408,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S4 Unfavorable"
       },
       {
-        "id": 675,
-        "x": -4.267,
-        "y": -1.628,
-        "z": 0.316,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
+        "id": 442,
+        "x": 0.79,
+        "y": 2.558,
+        "z": 0.05,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 365,
+        "x": -0.304,
+        "y": -0.176,
+        "z": -0.506,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 490,
+        "x": -1.371,
+        "y": -0.297,
+        "z": 0.074,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S4 Unfavorable"
       },
       {
-        "id": 9,
-        "x": -2.097,
-        "y": 2.968,
-        "z": -0.382,
+        "id": 525,
+        "x": 2.55,
+        "y": 1.74,
+        "z": -0.469,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 176,
+        "x": -0.632,
+        "y": 0.52,
+        "z": 0.46,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 576,
+        "x": 0.23,
+        "y": 0.694,
+        "z": -0.444,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 768,
+        "x": -0.737,
+        "y": 0.311,
+        "z": 0.859,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 163,
+        "x": -0.649,
+        "y": -0.344,
+        "z": 0.444,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 248,
+        "x": -0.075,
+        "y": -0.578,
+        "z": 0.087,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 548,
+        "x": -1.11,
+        "y": -0.664,
+        "z": -0.884,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 750,
+        "x": 1.9,
+        "y": 2.293,
+        "z": 0.326,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 74,
+        "x": -0.328,
+        "y": -0.857,
+        "z": 0.124,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 113,
+        "x": -0.455,
+        "y": 0.389,
+        "z": 1.102,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 465,
+        "x": -0.521,
+        "y": 0.181,
+        "z": -0.401,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 448,
+        "x": -1.243,
+        "y": 0.462,
+        "z": 0.415,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 104,
+        "x": 0.338,
+        "y": -3.719,
+        "z": -0.794,
         "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
         "tier": "S4 Unfavorable"
       },
       {
+        "id": 114,
+        "x": -0.696,
+        "y": -0.614,
+        "z": 0.843,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 333,
+        "x": -0.292,
+        "y": 0.482,
+        "z": 0.15,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 92,
+        "x": -0.127,
+        "y": 0.401,
+        "z": -0.71,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 784,
+        "x": -0.42,
+        "y": 0.653,
+        "z": 0.498,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 89,
+        "x": 0.567,
+        "y": -4.507,
+        "z": -0.391,
+        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 810,
+        "x": 0.098,
+        "y": -0.457,
+        "z": 0.311,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 780,
+        "x": -0.682,
+        "y": 0.038,
+        "z": 0.337,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 791,
+        "x": 1.243,
+        "y": 0.635,
+        "z": 0.099,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 522,
+        "x": -0.618,
+        "y": 0.23,
+        "z": -0.701,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 527,
+        "x": 0.023,
+        "y": -0.084,
+        "z": 0.508,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 94,
+        "x": 0.176,
+        "y": -4.478,
+        "z": -0.398,
+        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 11,
+        "x": -0.132,
+        "y": 1.134,
+        "z": -0.905,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 788,
+        "x": -0.625,
+        "y": -0.649,
+        "z": -0.57,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 43,
+        "x": -0.589,
+        "y": 0.383,
+        "z": 0.583,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 42,
+        "x": 2.067,
+        "y": 1.7,
+        "z": 0.465,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 329,
+        "x": 2.948,
+        "y": 1.551,
+        "z": -1.28,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 167,
+        "x": -0.659,
+        "y": -0.041,
+        "z": 0.393,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 743,
+        "x": 1.941,
+        "y": 2.019,
+        "z": -0.729,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 516,
+        "x": -0.514,
+        "y": -0.303,
+        "z": -0.036,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 660,
+        "x": 1.2,
+        "y": -4.43,
+        "z": -0.72,
+        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 662,
+        "x": -0.62,
+        "y": -0.143,
+        "z": -0.203,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 178,
+        "x": 1.491,
+        "y": 0.548,
+        "z": 0.651,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 815,
+        "x": -0.398,
+        "y": 0.054,
+        "z": 1.489,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 569,
+        "x": -0.463,
+        "y": -0.265,
+        "z": 0.156,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 177,
+        "x": -1.017,
+        "y": -1.181,
+        "z": 0.595,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 583,
+        "x": -0.279,
+        "y": 0.346,
+        "z": 0.524,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 678,
+        "x": -0.77,
+        "y": -1.184,
+        "z": 0.116,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 590,
+        "x": -0.811,
+        "y": -0.57,
+        "z": 1.247,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 257,
+        "x": -0.556,
+        "y": 0.043,
+        "z": 0.5,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 567,
+        "x": 0.213,
+        "y": 0.452,
+        "z": 0.926,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 335,
+        "x": -0.694,
+        "y": 0.135,
+        "z": -0.066,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 530,
+        "x": -0.422,
+        "y": 0.664,
+        "z": -0.557,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 15,
+        "x": -0.765,
+        "y": -0.86,
+        "z": 0.251,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 3,
+        "x": -0.307,
+        "y": 0.797,
+        "z": -0.265,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 405,
+        "x": -0.287,
+        "y": -0.376,
+        "z": 0.748,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 256,
+        "x": 2.097,
+        "y": 0.865,
+        "z": -0.326,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 411,
+        "x": -0.121,
+        "y": 0.42,
+        "z": 0.109,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 432,
+        "x": -0.37,
+        "y": 0.777,
+        "z": -0.992,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 375,
+        "x": -0.157,
+        "y": 0.043,
+        "z": -0.186,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 222,
+        "x": -0.356,
+        "y": 0.307,
+        "z": -0.985,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 713,
+        "x": -0.66,
+        "y": -3.145,
+        "z": -1.185,
+        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 412,
+        "x": -0.229,
+        "y": 0.295,
+        "z": 0.253,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 381,
+        "x": -0.281,
+        "y": 0.803,
+        "z": -0.92,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 324,
+        "x": 0.466,
+        "y": -3.64,
+        "z": -1.374,
+        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
+        "tier": "S4 Unfavorable"
+      },
+      {
+        "id": 675,
+        "x": -0.622,
+        "y": 0.71,
+        "z": -0.236,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 9,
+        "x": -0.313,
+        "y": 0.377,
+        "z": 0.379,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
         "id": 249,
-        "x": -0.101,
-        "y": 0.933,
-        "z": 0.507,
+        "x": -0.003,
+        "y": -0.244,
+        "z": -0.368,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
         "id": 22,
-        "x": 0.262,
-        "y": 0.697,
-        "z": 0.438,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
+        "x": 1.952,
+        "y": 0.796,
+        "z": -0.473,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
       },
       {
         "id": 356,
-        "x": -1.803,
-        "y": 2.135,
-        "z": -0.603,
+        "x": 0.661,
+        "y": -3.711,
+        "z": -1.418,
         "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
         "tier": "S4 Unfavorable"
       },
       {
         "id": 221,
-        "x": 0.152,
-        "y": 0.577,
-        "z": 0.704,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 806,
-        "x": 0.381,
-        "y": 0.351,
-        "z": -0.782,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
-        "id": 730,
-        "x": 1.349,
-        "y": -0.952,
-        "z": 0.313,
+        "x": 2.409,
+        "y": 3.03,
+        "z": -0.37,
         "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
         "tier": "S1 Prime PFZ"
       },
       {
-        "id": 834,
-        "x": 0.016,
-        "y": 0.866,
-        "z": 0.632,
+        "id": 806,
+        "x": -0.795,
+        "y": 0.108,
+        "z": -0.767,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S4 Unfavorable"
       },
       {
-        "id": 637,
-        "x": 0.833,
-        "y": 0.033,
-        "z": -0.104,
+        "id": 730,
+        "x": -0.209,
+        "y": -0.082,
+        "z": 0.385,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
+        "id": 834,
+        "x": -0.675,
+        "y": 1.012,
+        "z": -1.186,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 637,
+        "x": -0.42,
+        "y": 0.479,
+        "z": -0.004,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
         "id": 340,
-        "x": 0.721,
-        "y": -0.129,
-        "z": -0.037,
+        "x": -0.003,
+        "y": 0.249,
+        "z": -0.359,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
         "id": 710,
-        "x": -0.057,
-        "y": 0.885,
-        "z": 0.117,
+        "x": -0.465,
+        "y": -0.223,
+        "z": 0.458,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 203,
+        "x": -0.605,
+        "y": 0.113,
+        "z": 0.27,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
-        "id": 203,
-        "x": 1.648,
-        "y": -1.837,
-        "z": 0.807,
+        "id": 237,
+        "x": 1.297,
+        "y": 1.65,
+        "z": 0.003,
         "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
         "tier": "S1 Prime PFZ"
       },
       {
-        "id": 237,
-        "x": 1.134,
-        "y": -1.472,
-        "z": -0.532,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
         "id": 93,
-        "x": 1.543,
-        "y": -1.393,
-        "z": -0.622,
+        "x": 1.939,
+        "y": 1.534,
+        "z": -0.934,
         "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
+        "tier": "S1 Prime PFZ"
       },
       {
         "id": 456,
-        "x": -0.046,
-        "y": 0.923,
-        "z": 0.848,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S2 Favorable"
+        "x": 2.263,
+        "y": 0.76,
+        "z": 0.754,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
       },
       {
         "id": 777,
-        "x": -3.844,
-        "y": -1.988,
-        "z": -0.526,
-        "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-        "tier": "S3 Marginal"
+        "x": 0.554,
+        "y": -3.957,
+        "z": -0.829,
+        "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
+        "tier": "S4 Unfavorable"
       },
       {
         "id": 538,
-        "x": 0.483,
-        "y": 0.129,
-        "z": 0.025,
+        "x": -0.271,
+        "y": 0.194,
+        "z": 0.504,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
         "id": 284,
-        "x": -0.007,
-        "y": 0.997,
-        "z": 0.437,
+        "x": 0.035,
+        "y": 0.766,
+        "z": 0.667,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S2 Favorable"
+      },
+      {
+        "id": 184,
+        "x": -0.388,
+        "y": 0.125,
+        "z": 0.203,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 687,
+        "x": -1.009,
+        "y": -0.121,
+        "z": -0.655,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S4 Unfavorable"
       },
       {
-        "id": 184,
-        "x": 0.974,
-        "y": -1.159,
-        "z": -0.641,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S2 Favorable"
-      },
-      {
-        "id": 687,
-        "x": -0.077,
-        "y": 1.139,
-        "z": 0.802,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
-      },
-      {
         "id": 629,
-        "x": -0.133,
-        "y": 1.007,
-        "z": 0.131,
-        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
+        "x": 1.872,
+        "y": 0.876,
+        "z": -0.144,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
       },
       {
         "id": 153,
-        "x": 0.453,
-        "y": 0.128,
-        "z": -0.617,
+        "x": -0.225,
+        "y": -0.274,
+        "z": -0.038,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S3 Marginal"
       },
       {
         "id": 75,
-        "x": 0.48,
-        "y": 0.47,
-        "z": 0.522,
+        "x": 1.95,
+        "y": 1.229,
+        "z": -0.705,
+        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
+        "tier": "S1 Prime PFZ"
+      },
+      {
+        "id": 500,
+        "x": -0.853,
+        "y": -0.652,
+        "z": 0.28,
+        "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
+        "tier": "S3 Marginal"
+      },
+      {
+        "id": 529,
+        "x": -0.001,
+        "y": 0.875,
+        "z": 0.245,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
         "tier": "S2 Favorable"
       },
       {
-        "id": 500,
-        "x": 1.536,
-        "y": -1.467,
-        "z": -0.036,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
-        "id": 529,
-        "x": 1.348,
-        "y": -1.502,
-        "z": -0.042,
-        "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-        "tier": "S1 Prime PFZ"
-      },
-      {
         "id": 277,
-        "x": -0.093,
-        "y": 1.036,
-        "z": 0.597,
+        "x": -0.267,
+        "y": 0.615,
+        "z": 0.328,
         "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-        "tier": "S3 Marginal"
+        "tier": "S2 Favorable"
       }
     ]
   },
   "validation": {
     "kruskal_wallis": {
-      "statistic": 736.01,
-      "p_value": 3.2588674723422906e-159
+      "statistic": 737.21,
+      "p_value": 1.788380627393657e-159
     },
     "anova": {
-      "f_statistic": 1921.38,
+      "f_statistic": 1772.08,
       "p_value": 0.0
     },
     "spearman_fisher_survey": {
-      "rho": 0.872,
-      "p_value": 5.180128439746225e-113
+      "rho": 0.865,
+      "p_value": 2.2202175330309924e-109
     },
     "roc_curve": {
-      "auc": 0.9335,
+      "auc": 0.9458,
       "points": [
         {
           "fpr": 0.0,
           "tpr": 0.0
         },
         {
-          "fpr": 0.0,
-          "tpr": 0.1587
-        },
-        {
           "fpr": 0.0016,
-          "tpr": 0.3798
+          "tpr": 0.208
         },
         {
-          "fpr": 0.0016,
-          "tpr": 0.5913
+          "fpr": 0.0112,
+          "tpr": 0.5442
         },
         {
-          "fpr": 0.0202,
-          "tpr": 0.6202
+          "fpr": 0.024,
+          "tpr": 0.5796
         },
         {
-          "fpr": 0.0374,
-          "tpr": 0.6394
+          "fpr": 0.0337,
+          "tpr": 0.615
         },
         {
-          "fpr": 0.0592,
-          "tpr": 0.6538
+          "fpr": 0.0449,
+          "tpr": 0.646
         },
         {
-          "fpr": 0.0779,
-          "tpr": 0.6827
+          "fpr": 0.0593,
+          "tpr": 0.6681
         },
         {
-          "fpr": 0.109,
-          "tpr": 0.7019
+          "fpr": 0.0689,
+          "tpr": 0.7035
         },
         {
-          "fpr": 0.1355,
-          "tpr": 0.7356
+          "fpr": 0.0881,
+          "tpr": 0.7257
         },
         {
-          "fpr": 0.148,
-          "tpr": 0.75
+          "fpr": 0.0978,
+          "tpr": 0.7478
         },
         {
-          "fpr": 0.1589,
-          "tpr": 0.7692
+          "fpr": 0.1122,
+          "tpr": 0.792
         },
         {
-          "fpr": 0.1698,
-          "tpr": 0.7885
+          "fpr": 0.1298,
+          "tpr": 0.8142
         },
         {
-          "fpr": 0.19,
-          "tpr": 0.8077
+          "fpr": 0.1474,
+          "tpr": 0.8319
         },
         {
-          "fpr": 0.2025,
-          "tpr": 0.8365
+          "fpr": 0.1635,
+          "tpr": 0.8628
         },
         {
-          "fpr": 0.2134,
-          "tpr": 0.8558
+          "fpr": 0.1779,
+          "tpr": 0.8982
         },
         {
-          "fpr": 0.2243,
-          "tpr": 0.875
+          "fpr": 0.1891,
+          "tpr": 0.9292
         },
         {
-          "fpr": 0.2352,
-          "tpr": 0.8942
+          "fpr": 0.2083,
+          "tpr": 0.9513
         },
         {
-          "fpr": 0.2555,
-          "tpr": 0.9087
+          "fpr": 0.2308,
+          "tpr": 0.9735
         },
         {
-          "fpr": 0.271,
+          "fpr": 0.2676,
           "tpr": 1.0
         },
         {
-          "fpr": 0.3178,
+          "fpr": 0.3301,
           "tpr": 1.0
         },
         {
-          "fpr": 0.3847,
+          "fpr": 0.3894,
           "tpr": 1.0
         },
         {
-          "fpr": 0.4782,
+          "fpr": 0.4712,
           "tpr": 1.0
         },
         {
-          "fpr": 0.5421,
+          "fpr": 0.5561,
           "tpr": 1.0
         },
         {
-          "fpr": 0.6542,
+          "fpr": 0.6202,
           "tpr": 1.0
         },
         {
-          "fpr": 0.715,
+          "fpr": 0.7244,
           "tpr": 1.0
         },
         {
-          "fpr": 0.8193,
-          "tpr": 1.0
-        },
-        {
-          "fpr": 0.8769,
-          "tpr": 1.0
-        },
-        {
-          "fpr": 1.0,
+          "fpr": 0.7981,
           "tpr": 1.0
         }
       ]
@@ -3347,37 +3335,37 @@
       {
         "decile": 1,
         "sample_count": 85,
-        "high_yield_count": 84,
-        "high_yield_rate": 0.9882,
-        "lift": 4.04
+        "high_yield_count": 81,
+        "high_yield_rate": 0.9529,
+        "lift": 3.58
       },
       {
         "decile": 2,
         "sample_count": 85,
-        "high_yield_count": 52,
-        "high_yield_rate": 0.6118,
-        "lift": 2.5
+        "high_yield_count": 63,
+        "high_yield_rate": 0.7412,
+        "lift": 2.79
       },
       {
         "decile": 3,
-        "sample_count": 85,
-        "high_yield_count": 22,
-        "high_yield_rate": 0.2588,
-        "lift": 1.06
+        "sample_count": 84,
+        "high_yield_count": 37,
+        "high_yield_rate": 0.4405,
+        "lift": 1.66
       },
       {
         "decile": 4,
-        "sample_count": 85,
-        "high_yield_count": 28,
-        "high_yield_rate": 0.3294,
-        "lift": 1.35
+        "sample_count": 86,
+        "high_yield_count": 33,
+        "high_yield_rate": 0.3837,
+        "lift": 1.44
       },
       {
         "decile": 5,
         "sample_count": 85,
-        "high_yield_count": 22,
-        "high_yield_rate": 0.2588,
-        "lift": 1.06
+        "high_yield_count": 12,
+        "high_yield_rate": 0.1412,
+        "lift": 0.53
       },
       {
         "decile": 6,
@@ -3395,14 +3383,14 @@
       },
       {
         "decile": 8,
-        "sample_count": 85,
+        "sample_count": 83,
         "high_yield_count": 0,
         "high_yield_rate": 0.0,
         "lift": 0.0
       },
       {
         "decile": 9,
-        "sample_count": 85,
+        "sample_count": 87,
         "high_yield_count": 0,
         "high_yield_rate": 0.0,
         "lift": 0.0
@@ -3417,39 +3405,39 @@
     ],
     "cpue_by_tier": {
       "S1 Prime PFZ": {
-        "min": 184.7,
-        "q1": 308.275,
-        "median": 348.1,
-        "q3": 377.325,
+        "min": 175.0,
+        "q1": 288.225,
+        "median": 337.04999999999995,
+        "q3": 384.7,
         "max": 534.4,
-        "mean": 343.48359375000007,
+        "mean": 335.53828124999995,
         "count": 128
       },
       "S2 Favorable": {
-        "min": 61.4,
-        "q1": 149.95,
-        "median": 180.2,
-        "q3": 211.25,
-        "max": 285.3,
-        "mean": 179.57254901960783,
+        "min": 12.9,
+        "q1": 155.8,
+        "median": 185.4,
+        "q3": 216.85,
+        "max": 321.7,
+        "mean": 184.10470588235296,
         "count": 255
       },
       "S3 Marginal": {
-        "min": 2.0,
-        "q1": 51.824999999999996,
-        "median": 71.4,
-        "q3": 94.5,
+        "min": 2.9,
+        "q1": 55.15,
+        "median": 72.5,
+        "q3": 90.775,
         "max": 160.4,
-        "mean": 72.28724832214765,
+        "mean": 72.8510067114094,
         "count": 298
       },
       "S4 Unfavorable": {
         "min": 2.0,
-        "q1": 12.7,
-        "median": 20.3,
-        "q3": 28.7,
-        "max": 46.4,
-        "mean": 20.341420118343194,
+        "q1": 11.2,
+        "median": 17.9,
+        "q3": 25.3,
+        "max": 53.7,
+        "mean": 19.370414201183433,
         "count": 169
       }
     }
@@ -3457,171 +3445,171 @@
   "archetypes": [
     {
       "h_rank": 0,
-      "n_zones": 202,
+      "n_zones": 115,
       "regime": "R1 Upwelling Pelagic Front (High DO, Optimal Temp, High Plankton)",
-      "mean_suitability": 0.7756,
+      "mean_suitability": 0.8013,
       "mean_do_mg_l": 6.89,
-      "mean_sst_c": 26.1,
-      "mean_salinity_psu": 34.76,
-      "mean_turbidity_ntu": 6.31,
-      "mean_chla_mg_m3": 4.16,
-      "mean_depth_m": 41.4,
-      "mean_cpue_kg_hr": 281.0
+      "mean_sst_c": 26.32,
+      "mean_salinity_psu": 34.79,
+      "mean_turbidity_ntu": 8.58,
+      "mean_chla_mg_m3": 4.3,
+      "mean_depth_m": 43.3,
+      "mean_cpue_kg_hr": 333.9
     },
     {
       "h_rank": 1,
-      "n_zones": 531,
+      "n_zones": 691,
       "regime": "R2 Offshore Oligotrophic Marine (Clear Water, Moderate DO, Deep)",
-      "mean_suitability": 0.4433,
-      "mean_do_mg_l": 5.39,
-      "mean_sst_c": 28.93,
-      "mean_salinity_psu": 35.31,
-      "mean_turbidity_ntu": 2.2,
-      "mean_chla_mg_m3": 0.89,
-      "mean_depth_m": 63.7,
-      "mean_cpue_kg_hr": 102.2
+      "mean_suitability": 0.4631,
+      "mean_do_mg_l": 5.37,
+      "mean_sst_c": 28.86,
+      "mean_salinity_psu": 35.29,
+      "mean_turbidity_ntu": 3.07,
+      "mean_chla_mg_m3": 0.95,
+      "mean_depth_m": 61.1,
+      "mean_cpue_kg_hr": 109.0
     },
     {
       "h_rank": 2,
-      "n_zones": 43,
+      "n_zones": 41,
       "regime": "R3 Estuarine Sediment Plume (Low Salinity, High Turbidity)",
-      "mean_suitability": 0.3124,
-      "mean_do_mg_l": 2.44,
-      "mean_sst_c": 31.41,
+      "mean_suitability": 0.303,
+      "mean_do_mg_l": 2.74,
+      "mean_sst_c": 31.44,
       "mean_salinity_psu": 34.17,
-      "mean_turbidity_ntu": 8.51,
-      "mean_chla_mg_m3": 0.88,
-      "mean_depth_m": 24.5,
-      "mean_cpue_kg_hr": 38.7
+      "mean_turbidity_ntu": 8.95,
+      "mean_chla_mg_m3": 1.03,
+      "mean_depth_m": 22.4,
+      "mean_cpue_kg_hr": 26.4
     },
     {
       "h_rank": 3,
-      "n_zones": 74,
+      "n_zones": 3,
       "regime": "R4 Hypoxic Coastal Inversion (Depressed DO, High Temp, Avoid)",
-      "mean_suitability": 0.2668,
-      "mean_do_mg_l": 4.11,
-      "mean_sst_c": 30.07,
-      "mean_salinity_psu": 23.87,
-      "mean_turbidity_ntu": 38.0,
-      "mean_chla_mg_m3": 2.02,
-      "mean_depth_m": 16.2,
-      "mean_cpue_kg_hr": 27.8
+      "mean_suitability": 0.2333,
+      "mean_do_mg_l": 4.56,
+      "mean_sst_c": 29.85,
+      "mean_salinity_psu": 24.02,
+      "mean_turbidity_ntu": 41.56,
+      "mean_chla_mg_m3": 1.74,
+      "mean_depth_m": 14.9,
+      "mean_cpue_kg_hr": 15.7
     }
   ],
   "model_selection": [
     {
       "model": "kmeans",
       "k": 3,
-      "sil": 0.5666,
-      "db": 0.528,
-      "ch": 1349.7,
-      "stability": 0.6718,
-      "min_size": 74
+      "sil": 0.5611,
+      "db": 0.5224,
+      "ch": 567.4,
+      "stability": 0.0,
+      "min_size": 3
     },
     {
       "model": "gmm",
       "k": 3,
-      "sil": 0.566,
-      "db": 0.5228,
-      "ch": 1335.0,
-      "bic": 2816.2,
-      "stability": 0.618,
-      "min_size": 74
+      "sil": 0.4302,
+      "db": 1.0476,
+      "ch": 357.7,
+      "bic": 5397.6,
+      "stability": 0.0,
+      "min_size": 44
     },
     {
       "model": "kmeans",
       "k": 4,
-      "sil": 0.6185,
-      "db": 0.4606,
-      "ch": 1848.0,
-      "stability": 0.6753,
-      "min_size": 43
+      "sil": 0.6154,
+      "db": 0.4743,
+      "ch": 913.5,
+      "stability": 0.1353,
+      "min_size": 3
     },
     {
       "model": "gmm",
       "k": 4,
-      "sil": 0.6162,
-      "db": 0.4603,
-      "ch": 1827.2,
-      "bic": 1781.7,
-      "stability": 0.6213,
-      "min_size": 43
+      "sil": 0.4441,
+      "db": 0.7848,
+      "ch": 573.2,
+      "bic": 5245.4,
+      "stability": 0.1245,
+      "min_size": 3
     },
     {
       "model": "kmeans",
       "k": 5,
-      "sil": 0.4221,
-      "db": 0.7399,
-      "ch": 1754.1,
-      "stability": 0.2882,
-      "min_size": 43
+      "sil": 0.3018,
+      "db": 0.8528,
+      "ch": 904.0,
+      "stability": 0.4894,
+      "min_size": 3
     },
     {
       "model": "gmm",
       "k": 5,
-      "sil": 0.4136,
-      "db": 0.7481,
-      "ch": 1728.0,
-      "bic": 1872.6,
-      "stability": 0.2652,
-      "min_size": 43
+      "sil": 0.165,
+      "db": 1.953,
+      "ch": 698.5,
+      "bic": 5052.1,
+      "stability": 0.4503,
+      "min_size": 3
     },
     {
       "model": "kmeans",
       "k": 6,
-      "sil": 0.4174,
-      "db": 0.7237,
-      "ch": 1625.4,
-      "stability": 0.6612,
-      "min_size": 43
+      "sil": 0.2846,
+      "db": 0.9139,
+      "ch": 854.3,
+      "stability": 0.4259,
+      "min_size": 3
     },
     {
       "model": "gmm",
       "k": 6,
-      "sil": 0.3704,
-      "db": 1.2125,
-      "ch": 1473.7,
-      "bic": 1951.4,
-      "stability": 0.6083,
-      "min_size": 32
+      "sil": 0.1253,
+      "db": 1.7809,
+      "ch": 597.8,
+      "bic": 5092.8,
+      "stability": 0.3918,
+      "min_size": 3
     },
     {
       "model": "kmeans",
       "k": 7,
-      "sil": 0.3865,
-      "db": 0.9823,
-      "ch": 1526.9,
-      "stability": 0.2424,
-      "min_size": 30
+      "sil": 0.2685,
+      "db": 0.9758,
+      "ch": 784.0,
+      "stability": 0.3388,
+      "min_size": 3
     },
     {
       "model": "gmm",
       "k": 7,
-      "sil": 0.2909,
-      "db": 1.4199,
-      "ch": 1306.5,
-      "bic": 2035.8,
-      "stability": 0.223,
-      "min_size": 36
+      "sil": 0.1092,
+      "db": 2.242,
+      "ch": 512.8,
+      "bic": 5114.4,
+      "stability": 0.3117,
+      "min_size": 3
     },
     {
       "model": "kmeans",
       "k": 8,
-      "sil": 0.3192,
-      "db": 1.1158,
-      "ch": 1440.7,
-      "stability": 0.2635,
-      "min_size": 32
+      "sil": 0.2724,
+      "db": 0.9413,
+      "ch": 733.9,
+      "stability": 0.0153,
+      "min_size": 3
     },
     {
       "model": "gmm",
       "k": 8,
-      "sil": 0.3156,
-      "db": 1.2031,
-      "ch": 1253.2,
-      "bic": 2119.7,
-      "stability": 0.2424,
-      "min_size": 36
+      "sil": 0.061,
+      "db": 2.3751,
+      "ch": 442.4,
+      "bic": 5220.4,
+      "stability": 0.0141,
+      "min_size": 3
     }
   ]
 }
